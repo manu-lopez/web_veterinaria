@@ -1,5 +1,10 @@
 footer {
     background: rgb(0, 167, 154);
     background: linear-gradient(180deg, rgba(0, 167, 154, 1) 0%, rgba(0, 148, 177, 1) 100%);
+    color: white;
+}
 
+h5,
+a{
+    color:white;
 }
