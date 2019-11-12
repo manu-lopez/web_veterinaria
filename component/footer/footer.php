@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="footer.css">
-    <script src="https://kit.fontawesome.com/327a9188e5.js" crossorigin="anonymous"></script>
-</head>
-
-<body>
 
     <footer class="page-footer font-small blue pt-4">
         <div class="container-fluid text-center text-md-left">
@@ -21,8 +6,8 @@
                     <div class="form-group">
                         <h5 class="text-uppercase">Suscíbete a nuestro newsletter</h5>
                         <div class="btnNewsletter">
-                            <input type="text" class="form-control" id="nombre" name="nombre">
-                            <button type="submit" class="btn btn-success"> Enviar </div>
+                            <input type="text" class="form-control input-footer" id="nombre" name="nombre">
+                            <button type="submit" class="btn btn-color"> Enviar </div>
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" value="" id="checkbox1" name="checkbox1">
                             <label class="form-check-label" for="checkbox1">
@@ -90,7 +75,3 @@
             </div>
 
     </footer>
-    <!-- Footer -->
-</body>
-
-</html>

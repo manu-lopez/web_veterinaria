@@ -9,6 +9,17 @@ a{
     color:white;
 }
 
+.btn-color{
+    background: #92DB5A;
+    color: white;
+    border-radius: 0rem 0.5rem 0.5rem 0rem;
+}
+
+.input-footer{
+    border-radius: 0.5rem 0rem 0rem 0.5rem;
+
+}
+
 .btnNewsletter{
     display: flex;
     justify-content: center;
