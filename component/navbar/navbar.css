@@ -1,0 +1,13 @@
+.nav-contact {
+  background-color: #00B77B;
+}
+
+.disabled {
+  cursor: nonce;
+}
+
+.svg1 {
+  width: 1rem;
+  height: 1rem;
+  margin-top: 5px;
+}
