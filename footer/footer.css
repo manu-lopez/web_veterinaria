@@ -8,3 +8,8 @@ h5,
 a{
     color:white;
 }
+
+.btnNewsletter{
+    display: flex;
+    justify-content: center;
+}
