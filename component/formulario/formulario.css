@@ -1,0 +1,21 @@
+.btn-formulario{
+    border-radius: 1.5rem;
+    width: 8rem;
+    height: 2.5rem;
+}
+
+.form-check-input{
+    width: 1rem;
+    height: 1rem;
+}
+
+h3,
+body{
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-weight: bold;
+    
+}
+.card{
+    border-radius: 3rem;
+    background: #97E0CB;
+}
