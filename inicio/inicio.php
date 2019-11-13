@@ -3,11 +3,11 @@
 
 <head>
 <?php include '../component/head/head.html'; ?>
-<!-- <link rel="stylesheet" href="../footer/footer.css"> -->
 
 </head>
 
 <body>
+<?php include '../component/navbar/navbar.php'; ?>
 <?php include '../component/footer/footer.php'; ?>
 </body>
 
