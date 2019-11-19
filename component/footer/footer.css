@@ -1,10 +1,43 @@
+* {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    box-sizing: border-box;
+}
+
 footer {
     background: rgb(0, 167, 154);
     background: linear-gradient(180deg, rgba(0, 167, 154, 1) 0%, rgba(0, 148, 177, 1) 100%);
     color: white;
+    font-size: 1.1rem;
+    font-family: 'Fira Sans Condensed', sans-serif;
 }
 
 h5,
-a{
-    color:white;
+a {
+    color: white;
 }
+
+.filafooter{
+    width: 100%;
+}
+
+
+.politicas{
+    color: #63C45A;
+}
+
+.btn-color{
+    background: #92DB5A;
+    background: #63C45A;
+    color: white;
+    border-radius: 0rem 0.5rem 0.5rem 0rem;
+}
+
+.input-footer{
+    border-radius: 0.5rem 0rem 0rem 0.5rem;
+
+}
+
+.btn-newsletter{
+    display: flex;
+    justify-content: center;
+} 
