@@ -71,9 +71,8 @@
                     </div>
                 </div>
             </div>
+        </form>
     </div>
-    </form>
-
 
     <div class="footer-copyright text-center py-3 footer">© 2019 Copyright:
         <a href="https://github.com/jab95">Pepe</a> y <a href="https://github.com/manu-lopez">Manuel</a>
