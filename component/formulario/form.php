@@ -1,6 +1,6 @@
 <form>
-        <div class="container-fluid text-center text-md-left">
-          <div class="card col-lg-6">
+        <div class="container-fluid text-center text-md-left ">
+          <div class="card col-lg-12">
             <div class="card-body">
               <div class="row">
                 <div class="col-md-4 ">

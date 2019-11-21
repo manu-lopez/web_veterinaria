@@ -13,12 +13,11 @@ a {
     width: 100%;
 }
 
-.politicas {
+.enlace-estilo {
     color: #63C45A;
 }
 
 .btn-color {
-    background: #92DB5A;
     background: #63C45A;
     color: white;
     border-radius: 0rem 0.5rem 0.5rem 0rem;
