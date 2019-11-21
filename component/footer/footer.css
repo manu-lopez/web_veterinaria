@@ -3,12 +3,7 @@
     box-sizing: border-box;
 }
 
-footer {
-    background: linear-gradient(180deg, rgba(0, 167, 154, 1) 0%, rgba(0, 148, 177, 1) 100%);
-    color: white;
-    font-size: 1.1rem;
-}
-
+footer,
 h5,
 a {
     color: white;
