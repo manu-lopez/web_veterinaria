@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <?php include "../head/head.html" ?>
-<link rel="stylesheet" href="navbar.css">
-  <title>Document</title>
-</head>
-<body>
-  <!-- Navbar emergencias -->
+<!-- Navbar emergencias -->
 <div class="container-fluid">
   <div class="nav-contact">
     <ul class="nav justify-content-around">
