@@ -64,7 +64,7 @@
 
       <div class="row  justify-content-center mt-5 fila-inicio">
         <div class="col-lg-3 col-inicio">
-          <div class="card text-center bg-transparent ">
+          <div class="card text-center bg-transparent mt-3 ">
             <div class="card-body ">
 
               <i class="fas fa-cut fa-7x"></i>
@@ -78,7 +78,7 @@
         </div>
 
         <div class="col-lg-3 col-inicio">
-          <div class="card text-center bg-transparent ">
+          <div class="card text-center bg-transparent mt-3">
             <div class="card-body ">
 
               <i class="fas fa-notes-medical fa-7x"></i>
@@ -94,7 +94,7 @@
 
       <div class="row justify-content-center   fila-inicio">
         <div class="col-lg-3 col-inicio">
-          <div class="card text-center bg-transparent ">
+          <div class="card text-center bg-transparent mt-3 ">
             <div class="card-body ">
 
               <i class="fas fa-award fa-7x"></i>
@@ -107,7 +107,7 @@
         </div>
 
         <div class="col-lg-3 col-inicio">
-          <div class="card text-center bg-transparent ">
+          <div class="card text-center bg-transparent mt-3 ">
             <div class="card-body ">
 
               <i class="fas fa-hand-holding-heart fa-7x"></i>
@@ -124,7 +124,7 @@
 
       <div class="row justify-content-center  fila-inicio">
         <div class="col-lg-3 col-inicio">
-          <div class="card text-center bg-transparent ">
+          <div class="card text-center bg-transparent  mt-3">
             <div class="card-body ">
 
               <i class="fas fa-school fa-7x"></i>
@@ -138,7 +138,7 @@
         </div>
 
         <div class="col-lg-3 col-inicio">
-          <div class="card text-center bg-transparent e">
+          <div class="card text-center bg-transparent e mt-3">
             <div class="card-body ">
 
               <i class="fas fa-bone fa-7x"></i>
@@ -164,22 +164,8 @@
         <h2 class="text-white">DONDE ESTAMOS</h2>
       </center>
 
-      <div class="row justify-content-center mt-5">
-        <div class="col-lg-8">
+      <?php include '../component/contact/form.php'; ?>
 
-          <?php include '../component/formulario/form.php'; ?>
-
-        </div>
-        <div class="col-lg-4">
-          <div id="map-container-google-9" class="z-depth-1-half map-container-5">
-
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3200.108397646558!2d-6.1321926844215975!3d36.67189467997505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0dc6f48d92c5d7%3A0x207a96eef12d978d!2sIES%20Francisco%20Romero%20Vargas!5e0!3m2!1ses!2sus!4v1574351538783!5m2!1ses!2sus"
-              frameborder="0" allowfullscreen class="rounded-lg mapa"></iframe>
-          </div>
-
-        </div>
-      </div>
     </div>
 
     <img src="../imagenes/linea.svg" id="linea2" alt="">

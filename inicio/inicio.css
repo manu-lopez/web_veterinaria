@@ -46,6 +46,17 @@
     height: 25rem;
 }
 
+.fila-inicio {
+    width: 100%;
+    text-align: center;
+}
+
+.fila-inicio .card {
+    -webkit-box-shadow: 0.3rem 0.3rem 0.3rem 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0.3rem 0.3rem 0.3rem 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0.3rem 0.3rem 0.3rem 0px rgba(0, 0, 0, 0.75);
+    margin-left: 1rem;
+}
 
 
 /* TERMINA AQUI */
@@ -69,17 +80,7 @@
 
 /* TERMINA AQUI */
 
-.fila-inicio {
-    width: 100%;
-    text-align: center;
-}
 
-.fila-inicio .card {
-    -webkit-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
-    margin-left: 1rem;
-}
 
 .h5-inicio {
     color: black;
