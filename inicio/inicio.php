@@ -23,7 +23,7 @@
           <img class="d-block w-100" src="../imagenes/cab1.jpg" alt="">
           <div class="carousel-caption">
             <h3>Atendemos a tu mascota de la mejor manera posible. Especializados en medicina interna y cirugía.
-              Ven a visitarnos o pide cita previa llamando al 666 666 666
+              Ven a visitarnos o pide cita previa llamando al 666 666 666.
             </h3>
           </div>
         </div>
@@ -38,7 +38,7 @@
         <div class="carousel-item">
           <img class="d-block w-100" src="../imagenes/cab3.jpg" alt="">
           <div class="carousel-caption">
-            <p>Descripción de la imagen.</p>
+            <h3>Atención las 24 horas. Puedes confiar en nosotros, tu mascota estará siempre en las mejores manos.</h3>
           </div>
         </div>
       </div>
@@ -61,13 +61,13 @@
 
       <div class="col-lg-3 col-inicio">
 
-        <div class="card text-center bg-transparent ">
+        <div class="card text-center bg-transparent">
           <div class="card-body ">
 
             <i class="fas fa-cut fa-7x"></i>
 
             <p>
-              <h4>PELUQUERÍA</h4>
+              <h4 class="h4white">PELUQUERÍA</h4>
             </p>
 
           </div>
@@ -77,13 +77,13 @@
 
       <div class="col-lg-3 col-inicio">
 
-        <div class="card text-center bg-transparent ">
+        <div class="card text-center bg-transparent">
           <div class="card-body ">
 
             <i class="fas fa-notes-medical fa-7x"></i>
 
             <p>
-              <h4>VETERINARIA</h4>
+              <h4 class="h4white">VETERINARIA</h4>
             </p>
 
           </div>
@@ -98,12 +98,12 @@
 
       <div class="col-lg-3 col-inicio">
 
-        <div class="card text-center bg-transparent ">
+        <div class="card text-center bg-transparent">
           <div class="card-body ">
 
             <i class="fas fa-award fa-7x"></i>
             <p>
-              <h4>ADIESTRAMIENTO</h4>
+              <h4 class="h4white">ADIESTRAMIENTO</h4>
             </p>
 
           </div>
@@ -113,13 +113,13 @@
 
       <div class="col-lg-3 col-inicio">
 
-        <div class="card text-center bg-transparent ">
+        <div class="card text-center bg-transparent">
           <div class="card-body ">
 
             <i class="fas fa-hand-holding-heart fa-7x"></i>
 
             <p>
-              <h4>ADOPCIÓN</h4>
+              <h4 class="h4white">ADOPCIÓN</h4>
             </p>
 
           </div>
@@ -136,13 +136,13 @@
 
       <div class="col-lg-3 col-inicio">
 
-        <div class="card text-center bg-transparent ">
+        <div class="card text-center bg-transparent">
           <div class="card-body ">
 
             <i class="fas fa-cut fa-7x"></i>
 
             <p>
-              <h4>PELUQUERÍA</h4>
+              <h4 class="h4white">PELUQUERÍA</h4>
             </p>
 
           </div>
@@ -152,13 +152,13 @@
 
       <div class="col-lg-3 col-inicio">
 
-        <div class="card text-center bg-transparent e">
+        <div class="card text-center bg-transparent">
           <div class="card-body ">
 
             <i class="fas fa-cut fa-7x"></i>
 
             <p>
-              <h4>PELUQUERÍA</h4>
+              <h4 class="h4white">PELUQUERÍA</h4>
             </p>
 
           </div>
@@ -230,7 +230,7 @@
 
     </div>
 
-    
+
     <img src="../imagenes/linea.svg" id="linea2" alt="">
 
 

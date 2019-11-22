@@ -1,8 +1,7 @@
 .carousel-item img {
-    /* height: 35rem;
-    margin: 0; */
-    max-width: 100%;
-    height: auto;
+    height: 35rem;
+    margin: 0;
+    object-fit: cover;
 }
 
 .body-inicio {
@@ -79,11 +78,23 @@ i {
     text-align: center;
 }
 
+.col-inicio {
+    margin-bottom: 1.5rem;
+}
+
+.h4white {
+    color: white;
+}
+
 .fila-inicio .card {
-    -webkit-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
+    /* -webkit-box-shadotw: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
-    margin-left: 1rem;
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75); */
+    width: 15rem;
+    border-radius: 50%;
+    border-width: 0.3rem;
+    border-color: white;
+    margin: 0 auto;
 }
 
 .h5-inicio {
@@ -91,6 +102,7 @@ i {
 }
 
 .carousel-caption h3 {
-    background: linear-gradient(180deg, #92DB5A 20%, #5ADB76 100%);
+    /* background: linear-gradient(180deg, #92DB5A 20%, #5ADB76 100%); */
+    background: #5ADB76;
     border-radius: 1rem;
 }
