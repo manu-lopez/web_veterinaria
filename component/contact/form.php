@@ -1,4 +1,4 @@
-<div class="row justify-content-center mt-5">
+<div class="row justify-content-center contacto mt-5 ml-4 mr-4">
   <div class="col-lg-8">
     <form>
       <div class="container-fluid text-center text-md-left ">

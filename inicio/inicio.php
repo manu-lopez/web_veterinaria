@@ -158,15 +158,13 @@
 
     <!-- ZONA "DONDE ESTAMOS" -->
 
-    <div class="donde-estamos mt-0 ml-4 mr-4">
 
-      <center>
-        <h2 class="text-white">DONDE ESTAMOS</h2>
-      </center>
+    <center>
+      <h2 class="text-white">DONDE ESTAMOS</h2>
+    </center>
 
-      <?php include '../component/contact/form.php'; ?>
+    <?php include '../component/contact/form.php'; ?>
 
-    </div>
 
     <img src="../imagenes/linea.svg" id="linea2" alt="">
 
