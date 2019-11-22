@@ -3,7 +3,6 @@
 
 <head>
   <?php include '../component/head/head.html'; ?>
-
 </head>
 
 <body>

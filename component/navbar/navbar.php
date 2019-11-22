@@ -31,10 +31,10 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-caret-down"></i> Inicio</a>
+          <a class="nav-link" href="#">Inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-caret-down"></i> Tienda</a>
+          <a class="nav-link" href="#">Tienda</a>
 
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -49,19 +49,19 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-caret-down"></i> Adopción</a>
+          <a class="nav-link" href="#">Adopción</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-caret-down"></i> Blog</a>
+          <a class="nav-link" href="#">Blog</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-caret-down"></i> Nosotros</a>
+          <a class="nav-link" href="#">Nosotros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-caret-down"></i> Contacto</a>
+          <a class="nav-link" href="#">Contacto</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-caret-down"></i> Acceder</a>
+          <a class="nav-link" href="#">Acceder</a>
         </li>
       </ul>
     </div>
