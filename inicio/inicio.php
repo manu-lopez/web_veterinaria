@@ -153,7 +153,7 @@
       </div>
     </div>
 
-    <img src="../imagenes/linea.svg" id="linea1" alt="">
+    <img src="../imagenes/linea.svg" class="linea1 mt-5" alt="">
 
 
     <!-- ZONA "DONDE ESTAMOS" -->
@@ -166,7 +166,7 @@
     <?php include '../component/contact/form.php'; ?>
 
 
-    <img src="../imagenes/linea.svg" id="linea2" alt="">
+    <img src="../imagenes/linea.svg" class="linea2" alt="">
 
     <!-- ZONA FOOTER -->
 
@@ -176,7 +176,7 @@
 
     </div>
   </div>
-  </div>
+</div>
 
 
   <!--     

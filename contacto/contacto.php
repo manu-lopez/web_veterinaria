@@ -8,49 +8,52 @@
 
 <body>
 
-    <?php include '../component/navbar/navbar.php'; ?>
 
-    <div class="container-fluid body-inicio">
+        <?php include '../component/navbar/navbar.php'; ?>
 
+        <div class="body-contacto body-contacto">
 
-        <center>
-            <h2 class="text-white mt-5">Contacto</h2>
-        </center>
+            <div class="container-fluid">
 
-        <center>
-            <div class="row  justify-content-center mt-5 body-contacto">
-                <div class="col-lg-3">
+                
+                <center>
+                    <h2 class="text-white ">Contacto</h2>
+                </center>
 
-                    <a class="nav-link text-dark disabled"><i class="fas fa-mobile-alt">
+                <center>
+                    <div class="row  justify-content-center">
+                        <div class="col-md-5">
+
                             <h4 class="text-white mt-5">
+                                <i class="fas fa-mobile-alt"> Teléfono: +34 666 666 666</i>
+                            </h4>
+                        
 
-                                Teléfono: +34 666 666 666</h4>
-                        </i>
-                    </a>
+                        </div>
+                        <div class="col-md-5 ">
+                        
+                            <h4 class="text-white mt-5">
+                                <i class="far fa-envelope"> contacto@mishuellitas.com</i>
+                            </h4>
+                        
+                        </div>
+                    </div>
+                </center>
+
+
+                <?php include '../component/contact/form.php'; ?>
+
+                <img src="../imagenes/linea.svg" class="linea2" alt="">
+
+
+                <div class="footer-inicio">
+
+                    <?php include '../component/footer/footer.php'; ?>
 
                 </div>
-                <div class="col-lg-3 ">
 
-                    <i class="fas fa-envelope fa-2x"></i>
-                    <h4 class="text-white mt-5">
-
-                        contacto@mishuellitos.com</h4>
-
-                </div>
             </div>
-        </center>
-
-
-        <?php include '../component/contact/form.php'; ?>
-
-        <div class="footer-inicio">
-
-            <?php include '../component/footer/footer.php'; ?>
-
         </div>
-
-    </div>
-
 </body>
 
 </html>

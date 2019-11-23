@@ -8,6 +8,11 @@ body {
 }
 
 
+.carousel-caption h3 {
+    background: linear-gradient(180deg, #92DB5A 20%, #5ADB76 100%);
+    border-radius: 1rem;
+}
+
 .container-fluid {
     padding: 0;
 }
@@ -48,10 +53,9 @@ body {
 }
 
 .fila-inicio .card {
-    -webkit-box-shadow: 0.3rem 0.3rem 0.3rem 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0.3rem 0.3rem 0.3rem 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 0.3rem 0.3rem 0.3rem 0px rgba(0, 0, 0, 0.75);
-    margin-left: 1rem;
+    -webkit-box-shadow: 0.1rem 0.1rem 0.1rem 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0.1rem 0.1rem 0.1rem 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0.1rem 0.1rem 0.1rem 0px rgba(0, 0, 0, 0.75);
 }
 
 
@@ -61,26 +65,15 @@ body {
 
 /* CONFIGURACION LINEA SEPARACION */
 
-#linea1 {
-    margin-top: 5rem;
+.linea1 {
     width: 100%;
     transform: rotate(180deg);
 }
 
-#linea2 {
+.linea2 {
     width: 100%;
 }
 
 
 /* TERMINA AQUI */
 
-
-
-.h5-inicio {
-    color: black;
-}
-
-.carousel-caption h3 {
-    background: linear-gradient(180deg, #92DB5A 20%, #5ADB76 100%);
-    border-radius: 1rem;
-}
