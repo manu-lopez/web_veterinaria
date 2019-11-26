@@ -44,11 +44,11 @@
       <!-- botones de desplazamiento a izquierda y derecha -->
       <a class="carousel-control-prev" href="#carousel1" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
+        <span class="sr-only">Anterior</span>
       </a>
       <a class="carousel-control-next" href="#carousel1" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
+        <span class="sr-only">Siguiente</span>
       </a>
     </div>
 
@@ -225,34 +225,12 @@
         </div>
       </form>
 
-
-
     </div>
-
-
     <img src="../imagenes/linea.svg" id="linea2" alt="">
-
-
-
     <div class="footer-inicio">
       <?php include '../component/footer/footer.php'; ?>
     </div>
 
   </div>
-
-
-
-  <!--     
-<script type="text/javascript">
-$('.carousel').carousel({
-     interval: 1000,
-     pause:true,
-     wrap:true
-});
-</script> -->
-
-
-
 </body>
-
 </html>
