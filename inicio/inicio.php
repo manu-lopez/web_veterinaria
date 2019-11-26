@@ -3,7 +3,6 @@
 
 <head>
   <?php include '../component/head/head.html'; ?>
-
 </head>
 
 <body>
@@ -25,7 +24,7 @@
           <img class="d-block w-100" src="../imagenes/cab1.jpg" alt="">
           <div class="carousel-caption">
             <h3>Atendemos a tu mascota de la mejor manera posible. Especializados en medicina interna y cirugía.
-              Ven a visitarnos o pide cita previa llamando al 666 666 666
+              Ven a visitarnos o pide cita previa llamando al 666 666 666.
             </h3>
           </div>
         </div>
@@ -40,18 +39,18 @@
         <div class="carousel-item">
           <img class="d-block w-100" src="../imagenes/cab3.jpg" alt="">
           <div class="carousel-caption">
-            <p>Descripción de la imagen.</p>
+            <h3>Atención las 24 horas. Puedes confiar en nosotros, tu mascota estará siempre en las mejores manos.</h3>
           </div>
         </div>
       </div>
       <!-- botones de desplazamiento a izquierda y derecha -->
       <a class="carousel-control-prev" href="#carousel1" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
+        <span class="sr-only">Anterior</span>
       </a>
       <a class="carousel-control-next" href="#carousel1" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
+        <span class="sr-only">Siguiente</span>
       </a>
     </div>
 
@@ -155,7 +154,6 @@
 
     <img src="../imagenes/linea.svg" class="linea1 mt-5" alt="">
 
-
     <!-- ZONA "DONDE ESTAMOS" -->
 
 
@@ -176,20 +174,6 @@
 
     </div>
   </div>
-</div>
-
-
-  <!--     
-<script type="text/javascript">
-$('.carousel').carousel({
-     interval: 1000,
-     pause:true,
-     wrap:true
-});
-</script> -->
-
-
 
 </body>
-
 </html>

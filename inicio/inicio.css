@@ -5,12 +5,7 @@ body {
 .carousel-item img {
     height: 35rem;
     margin: 0;
-}
-
-
-.carousel-caption h3 {
-    background: linear-gradient(180deg, #92DB5A 20%, #5ADB76 100%);
-    border-radius: 1rem;
+    object-fit: cover;
 }
 
 .container-fluid {
@@ -52,12 +47,6 @@ body {
     text-align: center;
 }
 
-.fila-inicio .card {
-    -webkit-box-shadow: 0.1rem 0.1rem 0.1rem 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0.1rem 0.1rem 0.1rem 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 0.1rem 0.1rem 0.1rem 0px rgba(0, 0, 0, 0.75);
-}
-
 
 /* TERMINA AQUI */
 
@@ -77,3 +66,32 @@ body {
 
 /* TERMINA AQUI */
 
+.fila-inicio {
+    width: 100%;
+    text-align: center;
+}
+
+.col-inicio {
+    margin-bottom: 1.5rem;
+}
+
+.h4white {
+    color: white;
+}
+
+.fila-inicio .card {
+    width: 15rem;
+    border-radius: 50%;
+    border-width: 0.3rem;
+    border-color: white;
+    margin: 0 auto;
+}
+
+.h5-inicio {
+    color: black;
+}
+
+.carousel-caption h3 {
+    background: #5ADB76;
+    border-radius: 1rem;
+}
