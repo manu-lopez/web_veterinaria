@@ -1,16 +1,11 @@
+body {
+    background: linear-gradient(180deg, #63C45A 25%, rgb(0, 167, 154) 100%);
+}
+
 .carousel-item img {
     height: 35rem;
     margin: 0;
     object-fit: cover;
-}
-
-.body-inicio {
-    background: linear-gradient(180deg, #63C45A 25%, rgb(0, 167, 154) 100%);
-}
-
-#nuestros-servicios {
-    position: relative;
-    top: 1rem;
 }
 
 .container-fluid {
@@ -21,24 +16,14 @@
     color: black;
 }
 
-i {
+.fila-inicio i {
     color: white;
 }
 
 
 /* CONFIGURACION DEL ESTILO DE LA ZONA DE "DONDE ESTAMOS" */
 
-.donde-estamos {
-    margin-left: 3rem;
-    margin-top: 5rem;
-    margin-right: 3rem;
-}
 
-.donde-estamos .card {
-    border-radius: 4rem;
-    background: #97E0CB;
-    margin-bottom: 5rem;
-}
 
 .btn-formulario {
     border-radius: 1.5rem;
@@ -52,21 +37,29 @@ i {
 }
 
 
+.mapa{
+    width: 100%;
+    height: 25rem;
+}
+
+.fila-inicio {
+    width: 100%;
+    text-align: center;
+}
+
+
 /* TERMINA AQUI */
 
-
-/* CONFIGURACION DE ESTILO DEL FOOTER EN LA PAGINA DE INICIO */
 
 
 /* CONFIGURACION LINEA SEPARACION */
 
-#linea1 {
-    margin-top: 5rem;
+.linea1 {
     width: 100%;
     transform: rotate(180deg);
 }
 
-#linea2 {
+.linea2 {
     width: 100%;
 }
 
@@ -87,9 +80,6 @@ i {
 }
 
 .fila-inicio .card {
-    /* -webkit-box-shadotw: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
-    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75); */
     width: 15rem;
     border-radius: 50%;
     border-width: 0.3rem;
@@ -102,7 +92,6 @@ i {
 }
 
 .carousel-caption h3 {
-    /* background: linear-gradient(180deg, #92DB5A 20%, #5ADB76 100%); */
     background: #5ADB76;
     border-radius: 1rem;
 }
