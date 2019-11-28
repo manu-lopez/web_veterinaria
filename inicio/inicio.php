@@ -163,9 +163,6 @@
 
     <?php include '../component/contact/form.php'; ?>
 
-
-    <img src="../imagenes/linea.svg" class="linea2" alt="">
-
     <!-- ZONA FOOTER -->
 
     <div class="footer-inicio">

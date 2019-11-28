@@ -1,6 +1,6 @@
-<!-- Navbar emergencias -->
+<div class="container-fluid fixed-top">
+  <!-- Navbar emergencias -->
 
-<div class="container-fluid">
   <div class="nav-contact">
     <ul class="nav justify-content-around">
       <li class="nav-item btn-location-phone">
@@ -20,6 +20,7 @@
     </ul>
   </div>
   <!-- Navbar Principal -->
+
   <div class="body-nav-2">
 
     <nav class="d-flex justify-content-around nav-principal navbar navbar-expand-lg navbar-dark">
