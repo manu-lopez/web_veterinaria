@@ -3,7 +3,6 @@
 
 <head>
     <?php include '../component/head/head.html'; ?>
-
 </head>
 
 <body>
@@ -42,9 +41,6 @@
 
 
                 <?php include '../component/contact/form.php'; ?>
-
-                <img src="../imagenes/linea.svg" class="linea2" alt="">
-
 
                 <div class="footer-inicio">
 
