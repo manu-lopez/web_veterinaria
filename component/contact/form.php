@@ -53,8 +53,8 @@
         </div>
       </div>
     </form>
-
   </div>
+
   <div class="col-lg-4">
     <div id="map-container-google-9" class="z-depth-1-half map-container-5">
 
