@@ -2,13 +2,13 @@
 <html lang="en">
 
 <head>
-    <?php include '../component/head/head.html'; ?>
+    <?php include 'component/head.html'; ?>
 </head>
 
 <body>
 
 
-        <?php include '../component/navbar/navbar.php'; ?>
+        <?php include 'component/navbar.php'; ?>
 
         <div class="body-contacto body-contacto">
 
@@ -40,11 +40,11 @@
                 </center>
 
 
-                <?php include '../component/contact/form.php'; ?>
+                <?php include 'component/form.php'; ?>
 
                 <div class="footer-inicio">
 
-                    <?php include '../component/footer/footer.php'; ?>
+                    <?php include 'component/footer.php'; ?>
 
                 </div>
 

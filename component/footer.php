@@ -1,4 +1,4 @@
-<img src="../../imagenes/linea.svg" class="linea2" alt="">
+<img src="../imagenes/linea.svg" class="linea2" alt="">
 
 <footer class="page-footer font-small blue pt-4">
     <div class="container-fluid text-center text-md-left">
