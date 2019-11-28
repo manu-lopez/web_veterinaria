@@ -1,0 +1,8 @@
+$colorGradient1:  #00B71B;
+$colorGradient2:#0094B1;
+
+.body-contacto{
+    background: linear-gradient(180deg, $colorGradient1 30%, $colorGradient2 100%);
+    padding-top: 1rem;
+}
+
