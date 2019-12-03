@@ -15,7 +15,7 @@
         <div class="container-fluid">
 
             <center>
-                <h2 class="text-white ">ACCEDER</h2>
+                <h2 class="text-white ">Acceder</h2>
             </center>
 
 

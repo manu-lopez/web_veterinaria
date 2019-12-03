@@ -1,8 +1,8 @@
-$colorGradient1:  #00B71B;
-$colorGradient2:#0094B1;
+
+@import "_variables2";
+@import "_comunes";
 
 .body-contacto{
-    background: linear-gradient(180deg, $colorGradient1 30%, $colorGradient2 100%);
-    padding-top: 1rem;
+    @include gradiente-fondo($colorGradient1,$colorGradient2);
+    padding-top: 9rem;
 }
-
