@@ -65,7 +65,7 @@
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" value="" id="checkbox1" name="checkbox1">
                             <label class="form-check-label" for="checkbox1">
-                                He leido y acepto la <a class="enlace-estilo" href="">política de privacidad</a> y los <a class="enlace-estilo" href=""> términos de uso
+                                He leído y acepto la <a class="enlace-estilo" href="">política de privacidad</a> y los <a class="enlace-estilo" href=""> términos de uso
                                     de la web</a>
                             </label>
                         </div>

@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAGA,cAAc;EACV,UAAU,EAAE,kDAAkE;EAC9E,WAAW,EAAE,IAAI",
-"sources": ["../../scss/contacto.scss"],
+"mappings": "AAIA,cAAc;ECHV,UAAU,EAAE,kDAAkD;EDK9D,WAAW,EAAE,IAAI",
+"sources": ["../../scss/contacto.scss","../../scss/_comunes.scss"],
 "names": [],
 "file": "contacto.css"
 }

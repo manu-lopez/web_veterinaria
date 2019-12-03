@@ -7,17 +7,17 @@
             <div class="row">
               <div class="col-md-4 ">
                 <div class="form-group">
-                  <h3>Nombre</h3>
+                  <h4>Nombre</h4>
                   <input type="text" class="form-control" id="nombre" name="nombre">
                 </div>
                 <div class="form-group">
-                  <h3 for="nombre">Email</h3>
+                  <h4 for="nombre">Email</h4>
                   <input type="email" class="form-control" id="email" name="email">
                 </div>
               </div>
               <div class="col-md-8 ">
                 <div class="form-group">
-                  <h3 for="comentarios">Mensaje</h3>
+                  <h4 for="comentarios">Mensaje</h4>
                   <textarea class="form-control" rows="5" id="comentarios" name="comentarios"></textarea>
                 </div>
               </div>
