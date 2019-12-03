@@ -32,3 +32,37 @@ a {
     display: flex;
     justify-content: center;
 }
+
+/* SPRITE */
+
+#liSocial {
+    display: flex;
+}
+
+@media (max-width:767px) {
+    #liSocial {
+        justify-content: center;
+    }
+}
+
+#liSocial a {
+    margin: 0.4rem;
+}
+
+.bg-fb {
+    width: 18px;
+    height: 32px;
+    background: url('/imagenes/social.png') -10px -10px;
+}
+
+.bg-instagram {
+    width: 31px;
+    height: 31px;
+    background: url('/imagenes/social.png') -48px -10px;
+}
+
+.bg-twitter {
+    width: 35px;
+    height: 29px;
+    background: url('/imagenes/social.png') -99px -10px;
+}

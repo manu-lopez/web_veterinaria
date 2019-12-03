@@ -47,10 +47,10 @@
                         <li>
                             <i class="far fa-envelope"> contacto@mishuellitas.com</i>
                         </li>
-                        <li>
-                            <a href="#!"><i class="fab fa-facebook-f  fa-3x"></i></a>
-                            <a href="#!"><i class="fab fa-instagram  fa-3x"></i></i></a>
-                            <a href="#!"><i class="fab fa-twitter  fa-3x"></i></i></a>
+                        <li id="liSocial">
+                            <a href="http://facebook.com"><p class="bg-fb"></p></a>
+                            <a href="http://instagram.com"><p class="bg-instagram"></p></a>
+                            <a href="http://twitter.com"><p class="bg-twitter"></p></a>
                         </li>
                     </ul>
 

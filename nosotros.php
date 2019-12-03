@@ -7,10 +7,11 @@
 <body>
 <?php include 'component/navbar.php'; ?>
 
-<video width="320" height="240" autoplay>
-  <source src="media/tour.mov" type="video/mp4">
-</video>
-
+<div class="videoNosotros">
+  <video width="1280" height="720" autoplay>
+    <source src="media/tour.mov" type="video/mp4">
+  </video>
+</div>
 <div class="footer-inicio">
   <?php include 'component/footer.php'; ?>
 </div>
