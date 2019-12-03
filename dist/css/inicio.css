@@ -1,3 +1,7 @@
+.body-inicio {
+    margin-top: 8rem;
+}
+
 body {
     background: linear-gradient(180deg, #63C45A 25%, rgb(0, 167, 154) 100%);
 }
