@@ -11,10 +11,10 @@
       </li>
       <li class="d-flex nav-item">
         <a class="svg" href="#">
-          <img src="../imagenes/spain.svg">
+          <img src="imagenes/spain.svg">
         </a>
         <a class="svg" href="#">
-          <img src="../imagenes/united-kingdom.svg">
+          <img src="imagenes/united-kingdom.svg">
         </a>
       </li>
     </ul>
@@ -26,7 +26,7 @@
     <nav class="d-flex justify-content-around nav-principal navbar navbar-expand-lg navbar-dark">
       <div class="contenedorlogo ">
         <a class="logo" href="#">
-          <img src="../imagenes/logo_blanco.png" width="120" height="70" alt="">
+          <img src="imagenes/logo_blanco.png" width="120" height="70" alt="">
         </a>
       </div>
       <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
