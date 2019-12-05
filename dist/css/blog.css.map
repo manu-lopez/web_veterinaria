@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,UAAU;EACN,WAAW,EAAE,IAAI;ECHjB,UAAU,EAAE,kDAAkD;EDM9D,gBAAK;IACD,SAAS,EAAE,MAAM;IACjB,KAAK,EEPC,KAAK;IFQX,aAAa,EAAE,IAAI;IACnB,UAAU,EEPA,OAAO;IFQjB,aAAa,EAAE,IAAI;EAKnB,wBAAG;IACC,SAAS,EAAE,IAAI;IACf,UAAU,EAAE,IAAI;IAChB,MAAM,EAAE,CAAC;IACT,UAAU,EAAE,KAAK;EAIzB,yBAAc;IACV,KAAK,EAAE,IAAI",
+"sources": ["../../scss/blog.scss","../../scss/_comunes.scss","../../scss/_variables2.scss"],
+"names": [],
+"file": "blog.css"
+}

@@ -68,6 +68,7 @@
             <a class="nav-link" href="login.php">Acceder</a>
           </li>
         </ul>
+        <input type="text" name="search" placeholder="Búsqueda..">
       </div>
     </nav>
   </div>

@@ -1,16 +1,8 @@
 .body-login {
   padding-top: 9rem;
-  background: linear-gradient(180deg, #00B77B 25%, #0094B1 100%);
-}
+  background: linear-gradient(180deg, #00B77B 25%, #0094B1 100%); }
 
 .card-login {
-  height: fit-content;
-}
-
-@-moz-document url-prefix() {
-  .card-login {
-    height: -moz-fit-content;
-  }
-}
+  height: fit-content; }
 
 /*# sourceMappingURL=login.css.map */

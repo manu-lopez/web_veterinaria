@@ -48,9 +48,15 @@
                             <i class="far fa-envelope"> contacto@mishuellitas.com</i>
                         </li>
                         <li id="liSocial">
-                            <a href="http://facebook.com"><p class="bg-fb"></p></a>
-                            <a href="http://instagram.com"><p class="bg-instagram"></p></a>
-                            <a href="http://twitter.com"><p class="bg-twitter"></p></a>
+                            <a href="http://facebook.com">
+                                <p class="bg-fb"></p>
+                            </a>
+                            <a href="http://instagram.com">
+                                <p class="bg-instagram"></p>
+                            </a>
+                            <a href="http://twitter.com">
+                                <p class="bg-twitter"></p>
+                            </a>
                         </li>
                     </ul>
 
@@ -60,7 +66,7 @@
                     <div class="form-group">
                         <h5 class="text-uppercase">Suscríbete a nuestro newsletter</h5>
                         <div class="btn-newsletter">
-                            <input type="text" class="form-control input-footer" id="nombre" name="nombre">
+                            <input type="text" class="form-control input-footer" id="nombre" name="nombre" placeholder="Indique su email de subscripción">
                             <button type="submit" class="btn btn-color"> Enviar </div>
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" value="" id="checkbox1" name="checkbox1">

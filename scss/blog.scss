@@ -1,0 +1,32 @@
+@import "_variables2";
+@import "_comunes";
+
+.body-blog{
+    padding-top: 9rem;
+    @include gradiente-fondo($colorGradient1,$colorGradient2);
+    
+    .card{
+        font-size: 1.2rem;
+        color: $colorBlanco;
+        border-radius: 0rem;
+        background: $colorEntradaBlog;
+        margin-bottom: 2rem;
+    }
+
+    .entradas{
+
+        img{
+            max-width: 100%;
+            max-height: 100%;
+            margin: 0;
+            object-fit: cover;
+        }
+    }
+   
+    .texto-entrada{
+        width: 100%;
+    }
+
+  
+}
+
