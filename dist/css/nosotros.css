@@ -1,3 +1,4 @@
+/* VIDEO */
 header {
   position: relative;
   height: 75vh;
@@ -41,5 +42,19 @@ header .overlay {
   background-color: black;
   opacity: 0.5;
   z-index: 1; }
+
+.text-overlay {
+  font-size: 1.25rem; }
+
+@media (max-width: 600px) {
+  .text-overlay {
+    font-size: 1rem; } }
+@media (max-width: 400px) {
+  .text-overlay {
+    font-size: 0.5rem; } }
+/* FIN VIDEO */
+.personal_veterinario {
+  display: flex;
+  flex-direction: row; }
 
 /*# sourceMappingURL=nosotros.css.map */
