@@ -67,26 +67,15 @@
 }
 
 .logo img {
+  /* height: 5rem;
+  width: 10rem; */
   height: 3.12rem;
+
 }
 
 .body-nav-2 {
   font-size: 1.3rem;
 }
-
-/* @media (orientation: portrait) {
-  #prueba {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 10;
-  }
-} */
-
-/* 
-  ##Device = Desktops
-  ##Screen = 1281px to higher resolution desktops
-*/
 
 @media (min-width: 1281px) {
 
@@ -225,3 +214,21 @@
     position: relative;
   } */
 }
+
+/* BARRA BUSQUEDA */
+
+#campoBusqueda {
+ 
+  width: 30%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 5px 12px 5px 20px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
