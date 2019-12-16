@@ -4,4 +4,10 @@
 .body-contacto {
     @include gradiente-fondo($colorGradient1, $colorGradient2);
     padding-top: 9rem;
+
+    .contacto-body-contacto{
+        width: 100%;
+      }
+      
+    
 }

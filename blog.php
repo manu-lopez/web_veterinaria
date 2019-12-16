@@ -86,7 +86,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="card col-lg-3 card-login card-fechas">
+                <div class="card col-lg-3  card-fechas">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md ">

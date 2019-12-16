@@ -58,7 +58,7 @@
             <a class="nav-link" href="construccion.php">Adopción</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="construccion.php">Blog</a>
+            <a class="nav-link" href="blog.php">Blog</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="nosotros.php">Nosotros</a>

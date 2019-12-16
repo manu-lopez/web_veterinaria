@@ -1,5 +1,7 @@
 .body-contacto {
   background: linear-gradient(180deg, #00B77B 25%, #0094B1 100%);
   padding-top: 9rem; }
+  .body-contacto .contacto-body-contacto {
+    width: 100%; }
 
 /*# sourceMappingURL=contacto.css.map */
