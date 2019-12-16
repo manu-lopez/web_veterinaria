@@ -8,21 +8,21 @@
               <div class="col-md-4 ">
                 <div class="form-group">
                   <h4>Nombre</h4>
-                  <input type="text" class="form-control" id="nombre" name="nombre">
+                  <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Indique su nombre">
                 </div>
                 <div class="form-group">
                   <h4 for="nombre">Email</h4>
-                  <input type="email" class="form-control" id="email" name="email">
+                  <input type="email" class="form-control" id="email" name="email" placeholder="Indique su email">
                 </div>
               </div>
               <div class="col-md-8 ">
                 <div class="form-group">
                   <h4 for="comentarios">Mensaje</h4>
-                  <textarea class="form-control" rows="5" id="comentarios" name="comentarios"></textarea>
+                  <textarea class="form-control" rows="5" id="comentarios" name="comentarios" placeholder="Escriba el mensaje a enviar"></textarea>
                 </div>
               </div>
             </div>
-            <div class="row">
+            <div class=" row">
               <div class="col-md-12 ">
                 <p class="card-text">Le informamos que sus datos personales serán tratados por MISHUELLITAS,
                   con el fin de gestionar su solicitud y el mantenimiento de las relaciones profesionales

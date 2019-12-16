@@ -30,36 +30,36 @@
                                         <div class="col-md-6 ">
                                             <div class="form-group">
                                                 <h4>Nombre</h4>
-                                                <input type="text" class="form-control" id="nombre" name="nombre">
+                                                <input type="text" class="form-control" id="nombre" name="nombre" tabindex="1" placeholder="Escriba su nombre">
                                             </div>
                                             <div class="form-group">
                                                 <h4 for="nombre">Email</h4>
-                                                <input type="email" class="form-control" id="email" name="email">
+                                                <input type="email" class="form-control" id="email" name="email" tabindex="3" placeholder="Escriba su email">
                                             </div>
                                             <div class="form-group">
                                                 <h4 for="nombre">Contraseña</h4>
-                                                <input type="email" class="form-control" id="email" name="email">
+                                                <input type="email" class="form-control" id="email" name="email" tabindex="5" placeholder="Escriba una contraseña">
                                             </div>
                                         </div>
                                         <div class="col-md-6 ">
                                             <div class="form-group">
                                                 <h4>Apellidos</h4>
-                                                <input type="text" class="form-control" id="nombre" name="nombre">
+                                                <input type="text" class="form-control" id="nombre" name="nombre" tabindex="2" placeholder="Escriba sus apellidos">
                                             </div>
                                             <div class="form-group">
                                                 <h4 for="nombre">Repetir email</h4>
-                                                <input type="email" class="form-control" id="email" name="email">
+                                                <input type="email" class="form-control" id="email" name="email" tabindex="4" placeholder="Repita su email">
                                             </div>
                                             <div class="form-group">
                                                 <h4 for="nombre">Repetir contraseña</h4>
-                                                <input type="email" class="form-control" id="email" name="email">
+                                                <input type="email" class="form-control" id="email" name="email" tabindex="6" placeholder="Repita la contraseña">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-md">
                                             <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value="" id="checkbox1" name="checkbox1">
+                                                <input class="form-check-input" type="checkbox" value="" id="checkbox1" name="checkbox1" tabindex="7">
                                                 <label class="form-check-label" for="checkbox1">
                                                     He leído y acepto la <a class="enlace-estilo" href="">política de privacidad</a> y los <a class="enlace-estilo" href=""> términos de uso
                                                         de la web</a>
@@ -70,7 +70,7 @@
                                     <div class="row">
                                         <div class="col-md">
                                             <center>
-                                                <button type="submit" class="btn-outline-dark btn-formulario mt-2">Registrar</button>
+                                                <button type="submit" class="btn-outline-dark btn-formulario mt-2" tabindex="8">Registrar</button>
                                             </center>
                                         </div>
                                     </div>
@@ -86,11 +86,11 @@
                             <div class="col-md ">
                                 <div class="form-group">
                                     <h4>Email</h4>
-                                    <input type="text" class="form-control" id="nombre" name="nombre">
+                                    <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Indique su email">
                                 </div>
                                 <div class="form-group">
                                     <h4 for="nombre">Contraseña</h4>
-                                    <input type="email" class="form-control" id="email" name="email">
+                                    <input type="email" class="form-control" id="email" name="email" placeholder="Indique su contraseña">
                                 </div>
 
 
@@ -111,7 +111,7 @@
 
 
 
-            <div class="footer-inicio">
+            <div class="footer-login">
 
                 <?php include 'component/footer.php'; ?>
 

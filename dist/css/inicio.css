@@ -1,5 +1,4 @@
 .body-inicio {
-    margin-top: 8rem;
 }
 
 body {
@@ -62,12 +61,7 @@ body {
 /* CONFIGURACION LINEA SEPARACION */
 
 .linea1 {
-    width: 100%;
     transform: rotate(180deg);
-}
-
-.linea2 {
-    width: 100%;
 }
 
 
@@ -101,4 +95,5 @@ body {
 .carousel-caption h3 {
     background: #5ADB76;
     border-radius: 1rem;
+    padding: 1.5rem;
 }

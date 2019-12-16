@@ -1,4 +1,4 @@
-<div class="container-fluid fixed-top">
+<div class="container-fluid" id="contenedor-navbar">
   <!-- Navbar emergencias -->
 
   <div class="nav-contact">
@@ -32,6 +32,8 @@
       <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
+
+
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -69,6 +71,9 @@
           </li>
         </ul>
       </div>
+
+      <input id="campoBusqueda" type="text" name="search" placeholder="Búsqueda..">
+
     </nav>
   </div>
 </div>
