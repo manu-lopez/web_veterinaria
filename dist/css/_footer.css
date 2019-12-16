@@ -1,0 +1,106 @@
+/* PARA TODAS LAS PAGINAS EN GLOBAL */
+* {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    box-sizing: border-box;
+}
+
+footer,
+h5,
+a {
+    color: white;
+}
+
+
+.contenido-footer{
+    display: flex;
+    Justify-content:center;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+}
+
+.column-servicios{
+    text-align: center;
+   flex: 1 1 40;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+}
+
+.column-contacto{
+   display: flex;
+  flex-direction: column;
+  flex: 1 1 40;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
+}
+
+.column-newsletter{
+    display: flex;
+    justify-content: center;
+        flex: 1 1 20;
+    margin-right: 2rem;
+    margin-left: 2rem;
+
+}
+.filafooter {
+    width: 100%;
+}
+
+.enlace-estilo {
+    color: #63C45A;
+}
+
+.btn-color {
+    background: #63C45A;
+    color: white;
+    border-radius: 0rem 0.5rem 0.5rem 0rem;
+}
+
+.input-footer {
+    border-radius: 0.5rem 0rem 0rem 0.5rem;
+}
+
+.btn-newsletter {
+    display: flex;
+    justify-content: center;
+}
+
+
+ .list-unstyled i{
+    color: white;
+ }
+
+/* SPRITE */
+
+#liSocial {
+    display: flex;
+}
+
+/* @media (max-width:767px) {
+    #liSocial {
+        justify-content: center;
+    }
+} */
+
+#liSocial a {
+    margin: 0.4rem;
+}
+
+.bg-fb {
+    width: 18px;
+    height: 32px;
+    background: url('/imagenes/social.png') -10px -10px;
+}
+
+.bg-instagram {
+    width: 31px;
+    height: 31px;
+    background: url('/imagenes/social.png') -48px -10px;
+}
+
+.bg-twitter {
+    width: 35px;
+    height: 29px;
+    background: url('/imagenes/social.png') -99px -10px;
+}

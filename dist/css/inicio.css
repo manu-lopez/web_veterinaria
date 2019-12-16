@@ -1,0 +1,97 @@
+body {
+    background: linear-gradient(180deg, #63C45A 25%, rgb(0, 167, 154) 100%);
+}
+
+.carousel-item img {
+    height: 35rem;
+    margin: 0;
+    object-fit: cover;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.fila-inicio a {
+    color: black;
+}
+
+.fila-inicio i {
+    color: white;
+}
+
+.fila-inicio h4 {
+    color: white;
+}
+
+/* CONFIGURACION DEL ESTILO DE LA ZONA DE "DONDE ESTAMOS" */
+
+
+
+.btn-formulario {
+    border-radius: 1.5rem;
+    width: 8rem;
+    height: 2.5rem;
+}
+
+.form-check-input {
+    width: 1rem;
+    height: 1rem;
+}
+
+
+.mapa {
+    width: 100%;
+    height: 25rem;
+}
+
+.fila-inicio {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+
+
+/* TERMINA AQUI */
+
+
+
+/* CONFIGURACION LINEA SEPARACION */
+
+.linea1 {
+    transform: rotate(180deg);
+}
+
+
+/* TERMINA AQUI */
+
+.fila-inicio {
+    width: 100%;
+    text-align: center;
+}
+
+.col-inicio {
+    margin-bottom: 1.5rem;
+}
+
+.h4white {
+    color: white;
+}
+
+.fila-inicio .card {
+    width: 15rem;
+    border-radius: 50%;
+    border-width: 0.3rem;
+    border-color: white;
+    margin: 0 auto;
+}
+
+.h5-inicio {
+    color: black;
+}
+
+.carousel-caption h3 {
+    background: #5ADB76;
+    border-radius: 1rem;
+    padding: 1.5rem;
+}
