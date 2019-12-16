@@ -1,10 +1,10 @@
 .body-construccion {
   background: linear-gradient(180deg, #00B77B 25%, #0094B1 100%);
-  padding-top: 10rem; }
+  padding-top: 10.5rem; }
   .body-construccion .contenido-body {
     display: grid;
     grid-template-columns: 40rem;
-    grid-template-rows: 15rem,20rem;
+    grid-template-rows: 15rem, 20rem;
     justify-content: center;
     justify-items: center; }
   .body-construccion h1 {

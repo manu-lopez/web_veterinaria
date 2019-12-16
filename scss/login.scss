@@ -1,11 +1,11 @@
 @import "_variables2";
 @import "_comunes";
 
-.body-login{
-    padding-top: 3rem;
-    @include gradiente-fondo($colorGradient1,$colorGradient2);
+.body-login {
+    padding-top: 9rem;
+    @include gradiente-fondo($colorGradient1, $colorGradient2);
 }
 
-.card-login{
+.card-login {
     height: fit-content;
-  }
+}
