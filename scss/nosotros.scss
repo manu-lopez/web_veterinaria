@@ -9,7 +9,7 @@ header {
     min-height: 25rem;
     width: 100%;
     overflow: hidden;
-    margin-top: 8rem;
+    // margin-top: 8rem;
 }
 
 header img {
@@ -60,12 +60,6 @@ header .overlay {
 @media(max-width: 600px) {
     .text-overlay {
         font-size: 1rem;
-    }
-}
-
-@media(max-width: 400px) {
-    .text-overlay {
-        font-size: 0.5rem;
     }
 }
 
