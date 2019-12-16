@@ -10,6 +10,39 @@ a {
     color: white;
 }
 
+
+.contenido-footer{
+    display: flex;
+    Justify-content:center;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+}
+
+.column-servicios{
+    text-align: center;
+   flex: 1 1 40;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+}
+
+.column-contacto{
+   display: flex;
+  flex-direction: column;
+  flex: 1 1 40;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
+}
+
+.column-newsletter{
+    display: flex;
+    justify-content: center;
+        flex: 1 1 20;
+    margin-right: 2rem;
+    margin-left: 2rem;
+
+}
 .filafooter {
     width: 100%;
 }
@@ -33,17 +66,22 @@ a {
     justify-content: center;
 }
 
+
+ .list-unstyled i{
+    color: white;
+ }
+
 /* SPRITE */
 
 #liSocial {
     display: flex;
 }
 
-@media (max-width:767px) {
+/* @media (max-width:767px) {
     #liSocial {
         justify-content: center;
     }
-}
+} */
 
 #liSocial a {
     margin: 0.4rem;
