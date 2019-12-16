@@ -1,6 +1,3 @@
-.body-inicio {
-}
-
 body {
     background: linear-gradient(180deg, #63C45A 25%, rgb(0, 167, 154) 100%);
 }
@@ -51,6 +48,7 @@ body {
 .fila-inicio {
     width: 100%;
     text-align: center;
+    margin: 0;
 }
 
 

@@ -1,4 +1,4 @@
-<div class="container-fluid" id="contenedor-navbar">
+<div id="prueba" class="container-fluid ">
   <!-- Navbar emergencias -->
 
   <div class="nav-contact">
@@ -25,7 +25,7 @@
 
     <nav class="d-flex justify-content-around nav-principal navbar navbar-expand-lg navbar-dark">
       <div class="contenedorlogo ">
-        <a class="logo" href="#">
+        <a class="logo" href="inicio.php">
           <img src="imagenes/logo_blanco.png" width="120" height="70" alt="">
         </a>
       </div>

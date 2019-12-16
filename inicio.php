@@ -91,7 +91,7 @@
         </div>
       </div>
 
-      <div class="row justify-content-center   fila-inicio">
+      <div class="row justify-content-center fila-inicio">
         <div class="col-lg-3 col-inicio">
           <div class="card text-center bg-transparent mt-3 ">
             <div class="card-body ">
@@ -121,7 +121,7 @@
       </div>
 
 
-      <div class="row justify-content-center  fila-inicio">
+      <div class="row justify-content-center fila-inicio">
         <div class="col-lg-3 col-inicio">
           <div class="card text-center bg-transparent  mt-3">
             <div class="card-body ">
