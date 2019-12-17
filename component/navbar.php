@@ -72,7 +72,7 @@
         </ul>
       </div>
 
-      <input id="campoBusqueda" type="text" name="search" placeholder="Búsqueda..">
+      <!-- <input id="campoBusqueda" type="text" name="search" placeholder="Búsqueda.."> -->
 
     </nav>
   </div>
