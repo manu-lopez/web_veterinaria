@@ -2,7 +2,7 @@
 @import "_comunes";
 
 .body-blog{
-    padding-top: 3rem;
+    padding-top: 9rem;
     @include gradiente-fondo($colorGradient1,$colorGradient2);
     
     .card{
@@ -30,6 +30,12 @@
     .texto-entrada{
         width: 100%;
     }
+
+    .card-fechas{
+        width: 93%;
+
+      }
+  
 
   
 }

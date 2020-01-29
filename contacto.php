@@ -20,7 +20,7 @@
                 </center>
 
                 <center>
-                    <div class="row  justify-content-center">
+                    <div class="row  justify-content-center contacto-body-contacto">
                         <div class="col-md-5">
 
                             <h4 class="text-white mt-5">
