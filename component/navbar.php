@@ -9,6 +9,15 @@
       <li class="nav-item btn-location-phone">
         <a class="nav-link text-dark disabled"><i class="fas fa-mobile-alt"> Teléfono 24h: +34 666 666 666</i></a>
       </li>
+      <li class="nav-item">
+
+        <div class="container-audio">
+          <audio controls loop autoplay>
+            <source src="media/vivaldi.mp3" type="audio/ogg">
+            Your browser dose not Support the audio Tag
+          </audio>
+        </div>
+      </li>
       <li class="d-flex nav-item">
         <a class="svg" href="#">
           <img src="imagenes/spain.svg">
@@ -58,7 +67,7 @@
             <a class="nav-link" href="construccion.php">Adopción</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="construccion.php">Blog</a>
+            <a class="nav-link" href="blog.php">Blog</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="nosotros.php">Nosotros</a>
