@@ -158,7 +158,7 @@
 
 
     <center>
-      <h2 class="text-white">DONDE ESTAMOS</h2>
+      <h2 class="text-white">DÓNDE ESTAMOS</h2>
     </center>
 
     <?php include 'component/form.php'; ?>
