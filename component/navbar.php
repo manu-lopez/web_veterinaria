@@ -11,10 +11,10 @@
       </li>
       <li class="d-flex nav-item">
         <a class="svg" href="#">
-          <img src="imagenes/spain.svg">
+          <img src="imagenes/spain.svg" alt="Icono bandera españa">
         </a>
         <a class="svg" href="#">
-          <img src="imagenes/united-kingdom.svg">
+          <img src="imagenes/united-kingdom.svg" alt="Icono Bandera Reino Unido">
         </a>
       </li>
     </ul>
@@ -26,7 +26,7 @@
     <nav class="d-flex justify-content-around nav-principal navbar navbar-expand-lg navbar-dark">
       <div class="contenedorlogo ">
         <a class="logo" href="index.php">
-          <img src="imagenes/logo_completo.png" width="150" height="90" alt="">
+          <img src="imagenes/logo_completo.png" width="150" height="90" alt="Logo Mis Huellitas">
         </a>
       </div>
       <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

@@ -13,7 +13,6 @@
 
         <div class="contenido-body">
             <h1>EN CONSTRUCCIÓN</h1>
-            <!-- <img id="imagen-construccion" src="imagenes/perro_obrero_1.jpg" src="" alt=""> -->
             <picture id="imagen-construccion">
                 <source media="(min-width: 991px)" srcset="imagenes/perro_obrero_3.jpg,
                 imagenes/perro_obrero_3@2x.jpg 2x">

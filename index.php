@@ -21,7 +21,7 @@
       <!-- diapositivas -->
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="imagenes/cab1.jpg" alt="">
+          <img class="d-block w-100" src="imagenes/cab1.jpg" alt="Perro feliz tumbado en el campo">
           <div class="carousel-caption">
             <h3>Atendemos a tu mascota de la mejor manera posible. Especializados en medicina interna y cirugía.
               Ven a visitarnos o pide cita previa llamando al 666 666 666.
@@ -29,7 +29,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="imagenes/cab2.jpg" alt="">
+          <img class="d-block w-100" src="imagenes/cab2.jpg" alt="Mujer acariciando a perro">
           <div class="carousel-caption">
             <h3>En la clínica disponemos de medios técnicos de última generación y conocimientos diagnósticos y
               terapéuticos
@@ -37,7 +37,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="imagenes/cab3.jpg" alt="">
+          <img class="d-block w-100" src="imagenes/cab3.jpg" alt="Cachorro en la playa">
           <div class="carousel-caption">
             <h3>Atención las 24 horas. Puedes confiar en nosotros, tu mascota estará siempre en las mejores manos.</h3>
           </div>
@@ -152,7 +152,7 @@
       </div>
     </div>
 
-    <img src="imagenes/linea.svg" class="linea1 mt-5" alt="">
+    <img src="imagenes/linea.svg" class="linea1 mt-5" alt="Separador">
 
     <!-- ZONA "DONDE ESTAMOS" -->
 

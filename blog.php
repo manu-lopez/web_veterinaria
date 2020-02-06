@@ -28,7 +28,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/concurso.jpg" alt="">
+                                                <img id="img-blog" src="imagenes/concurso.jpg" alt="Cartel de concurso de perro">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">
@@ -49,7 +49,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/nutricion.jpg" alt="">
+                                                <img id="img-blog" src="imagenes/nutricion.jpg" alt="Dos perros con comida">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">
@@ -68,7 +68,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/sananton.jpg" alt="">
+                                                <img id="img-blog" src="imagenes/sananton.jpg" alt="Cartel fiesta San Antón">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">

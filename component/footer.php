@@ -1,4 +1,4 @@
-<img src="imagenes/linea.svg" class="linea2" alt="">
+<img src="imagenes/linea.svg" class="linea2" alt="Separador">
 
 <footer>
     <div class="body-footer">
@@ -69,10 +69,10 @@
                         <h5 class="text-uppercase">Suscríbete a nuestro newsletter</h5>
                     </center>
                     <div class="btn-newsletter">
-                        <input type="text" class="form-control input-footer" id="nombre" name="nombre" placeholder="Indique su email de subscripción">
-                        <button type="submit" class="btn btn-color"> Enviar </div>
+                        <input type="text" class="form-control input-footer" id="nombre" name="nombre" placeholder="Indique su email de subscripción" tabindex="0">
+                        <button type="submit" class="btn btn-color" tabindex="0"> Enviar </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="checkbox1" name="checkbox1">
+                        <input class="form-check-input" type="checkbox" value="" id="checkbox1" name="checkbox1" tabindex="0">
                         <label class="form-check-label" for="checkbox1">
                             He leído y acepto la <a class="enlace-estilo" href="">política de privacidad</a> y los <a class="enlace-estilo" href=""> términos de uso
                                 de la web</a>

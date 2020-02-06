@@ -1,0 +1,1 @@
+document.getElementById("videoNosotros").textTracks[0].mode = "showing";
