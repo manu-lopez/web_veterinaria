@@ -38,3 +38,5 @@ Mousetrap.bind('ctrl+8', function () {
   window.location.href = "http://localhost:8080/login.php";
 });
 
+let player = new Microne(document.getElementById('player'))
+player.source("media/vivaldi.mp3");

@@ -12,6 +12,7 @@
         <a class="nav-link text-dark disabled"><i class="fas fa-mobile-alt"> Teléfono 24h: +34 666 666 666</i></a>
       </li>
       <li class="d-flex nav-item">
+        <div id="player"></div>
         <a class="svg" href="#">
           <img src="imagenes/spain.svg" alt="Icono bandera españa">
         </a>
