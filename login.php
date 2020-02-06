@@ -38,7 +38,7 @@
                                             </div>
                                             <div class="form-group">
                                                 <h4 for="nombre">Contraseña</h4>
-                                                <input type="email" class="form-control" id="email" name="email" tabindex="5" placeholder="Escriba una contraseña">
+                                                <input type="password" class="form-control" id="email" name="email" tabindex="5" placeholder="Escriba una contraseña">
                                             </div>
                                         </div>
                                         <div class="col-md-6 ">
@@ -52,7 +52,7 @@
                                             </div>
                                             <div class="form-group">
                                                 <h4 for="nombre">Repetir contraseña</h4>
-                                                <input type="email" class="form-control" id="email" name="email" tabindex="6" placeholder="Repita la contraseña">
+                                                <input type="password" class="form-control" id="email" name="email" tabindex="6" placeholder="Repita la contraseña">
                                             </div>
                                         </div>
                                     </div>
@@ -90,7 +90,7 @@
                                 </div>
                                 <div class="form-group">
                                     <h4 for="nombre">Contraseña</h4>
-                                    <input type="email" class="form-control" id="email" name="email" placeholder="Indique su contraseña">
+                                    <input type="password" class="form-control" id="email" name="email" placeholder="Indique su contraseña">
                                 </div>
 
 
