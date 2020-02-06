@@ -25,8 +25,8 @@
 
     <nav class="d-flex justify-content-around nav-principal navbar navbar-expand-lg navbar-dark">
       <div class="contenedorlogo ">
-        <a class="logo" href="inicio.php">
-          <img src="imagenes/logo_blanco.png" width="120" height="70" alt="">
+        <a class="logo" href="index.php">
+          <img src="imagenes/logo_completo.png" width="150" height="90" alt="">
         </a>
       </div>
       <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,7 +37,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="inicio.php">Inicio</a>
+            <a class="nav-link" href="index.php">Inicio</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="construccion.php">Tienda</a>
