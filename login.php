@@ -93,10 +93,8 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md">
-                                <center>
+                            <div class="col-md" style="text-align:center;">
                                     <button type="submit" class="btn-outline-dark btn-formulario mt-2">Iniciar</button>
-                                </center>
                             </div>
                         </div>
                     </div>

@@ -80,18 +80,12 @@
                 </div>
 
             </div>
-
-
         </div>
-
-        <center>
-            <div class="copyright"> 
+            <div class="copyright" style="text-align:center;"> 
                 © 2019 Copyright:
                 <a href="https://github.com/jab95" class="enlace-estilo">Pepe</a> y <a href="https://github.com/manu-lopez" class="enlace-estilo">Manuel</a>
 
             </div>
-        </center>
-
     </div>
 
 </footer>
