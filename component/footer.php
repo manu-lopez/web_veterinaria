@@ -71,6 +71,7 @@
                     <div class="btn-newsletter">
                         <input type="text" class="form-control input-footer" name="nombre" placeholder="Indique su email de subscripción" tabindex="0">
                         <button type="submit" class="btn btn-color" tabindex="0"> Enviar </button>
+                    </div>
                     <div class="form-check">
                         <input class="form-check-input" type="checkbox" value="" name="checkbox1" tabindex="0">
                         <label class="form-check-label" for="checkbox1">
@@ -86,7 +87,7 @@
         </div>
 
         <center>
-            <div class="copyright">
+            <div class="copyright"> 
                 © 2019 Copyright:
                 <a href="https://github.com/jab95" class="enlace-estilo">Pepe</a> y <a href="https://github.com/manu-lopez" class="enlace-estilo">Manuel</a>
 
