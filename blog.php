@@ -14,9 +14,7 @@
 
         <div class="container-fluid">
 
-            <center>
-                <h2 class="text-white ">Blog</h2>
-            </center>
+                <h2 class="text-white " style="text-align:center">Blog</h2>
 
 
             <div class="row justify-content-center contacto mt-5 ml-4 mr-4">

@@ -57,21 +57,15 @@
     <!-- ZONA SERVICIOS -->
 
     <div class="mt-5">
-      <center>
-        <h2 class="text-white">NUESTROS SERVICIOS</h2>
-      </center>
+        <h2 class="text-white" style="text-align:center">NUESTROS SERVICIOS</h2>
 
       <div class="row  justify-content-center mt-5 fila-inicio">
         <div class="col-lg-3 col-inicio">
           <div class="card text-center bg-transparent mt-3 ">
             <div class="card-body ">
 
-              <i class="fas fa-cut fa-7x"></i>
-
-              <p>
+              <i class="iconoServicio fas fa-cut fa-7x"></i>
                 <h4>PELUQUERÍA</h4>
-              </p>
-
             </div>
           </div>
         </div>
@@ -80,12 +74,8 @@
           <div class="card text-center bg-transparent mt-3">
             <div class="card-body ">
 
-              <i class="fas fa-notes-medical fa-7x"></i>
-
-              <p>
+              <i class="iconoServicio fas fa-notes-medical fa-7x"></i>
                 <h4>VETERINARIA</h4>
-              </p>
-
             </div>
           </div>
         </div>
@@ -95,12 +85,8 @@
         <div class="col-lg-3 col-inicio">
           <div class="card text-center bg-transparent mt-3 ">
             <div class="card-body ">
-
-              <i class="fas fa-award fa-7x"></i>
-              <p>
-                <h4>ADIESTRAMIENTO</h4>
-              </p>
-
+              <i class="iconoServicio fas fa-award fa-7x"></i>
+              <h4>ADIESTRAMIENTO</h4>
             </div>
           </div>
         </div>
@@ -109,12 +95,8 @@
           <div class="card text-center bg-transparent mt-3 ">
             <div class="card-body ">
 
-              <i class="fas fa-hand-holding-heart fa-7x"></i>
-
-              <p>
+              <i class="iconoServicio fas fa-hand-holding-heart fa-7x"></i>
                 <h4>ADOPCIÓN</h4>
-              </p>
-
             </div>
           </div>
         </div>
@@ -126,12 +108,8 @@
           <div class="card text-center bg-transparent  mt-3">
             <div class="card-body ">
 
-              <i class="fas fa-school fa-7x"></i>
-
-              <p>
+              <i class="iconoServicio fas fa-school fa-7x"></i>
                 <h4>GUARDERÍA</h4>
-              </p>
-
             </div>
           </div>
         </div>
@@ -140,12 +118,8 @@
           <div class="card text-center bg-transparent e mt-3">
             <div class="card-body ">
 
-              <i class="fas fa-bone fa-7x"></i>
-
-              <p>
+              <i class="iconoServicio fas fa-bone fa-7x"></i>
                 <h4>NUTRICIÓN</h4>
-              </p>
-
             </div>
           </div>
         </div>
@@ -157,9 +131,7 @@
     <!-- ZONA "DONDE ESTAMOS" -->
 
 
-    <center>
-      <h2 class="text-white">DÓNDE ESTAMOS</h2>
-    </center>
+      <h2 class="text-white" style="text-align:center">DÓNDE ESTAMOS</h2>
 
     <?php include 'component/form.php'; ?>
 
