@@ -1,18 +1,25 @@
+.body-inicio {
+  margin: 2rem 0 0 0;
+}
+
 /* VIDEO */
 header {
   position: relative;
-  height: 75vh;
+  height: 100vh;
   min-height: 25rem;
   width: 100%;
-  overflow: hidden; }
+  overflow: hidden;
+}
 
 header img {
   width: 20%;
-  height: auto; }
+  height: auto;
+}
 
 header h3 {
   margin-top: 1rem;
-  font-family: "Caveat"; }
+  font-family: "Caveat";
+}
 
 header video {
   position: absolute;
@@ -26,21 +33,22 @@ header video {
   -ms-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%); 
+  transform: translateX(-50%) translateY(-50%);
 }
 
 header .container {
   position: relative;
-  z-index: 2; 
+  z-index: 2;
 }
 
 .text-overlay {
-  font-size: 1.25rem; 
+  font-size: 1.25rem;
 }
 
 @media (max-width: 600px) {
   .text-overlay {
-    font-size: 1rem; } 
+    font-size: 1rem;
+  }
 }
 
 /* FIN VIDEO */
