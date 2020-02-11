@@ -65,9 +65,7 @@
             <div class="column-newsletter">
 
                 <div class="form-group">
-                    <center>
-                        <h5 class="text-uppercase">Suscríbete a nuestro newsletter</h5>
-                    </center>
+                        <h5 class="text-uppercase" style="text-align:center;">Suscríbete a nuestro newsletter</h5>
                     <div class="btn-newsletter">
                         <input type="text" class="form-control input-footer" name="nombre" placeholder="Indique su email de subscripción" tabindex="0">
                         <button type="submit" class="btn btn-color" tabindex="0"> Enviar </button>

@@ -4,9 +4,9 @@
   <div class="nav-contact">
     <ul class="nav justify-content-around">
       <li class="nav-item btn-location-phone">
-        <a href="https://goo.gl/maps/xtXPSWTJ5ka4jxLK6">
-          <button type="button" class="btn btn-outline-dark"><i class="fas fa-location-arrow"></i> Localización</button>
-        </a>
+        <span onclick="window.open('https://goo.gl/maps/xtXPSWTJ5ka4jxLK6')">
+          <button type="button" class="btn btn-outline-dark"><i class="fas fa-location-arrow"></i>Localización</button>
+        </span>
       </li>
       <li class="nav-item btn-location-phone">
         <a class="nav-link text-dark disabled"><i class="fas fa-mobile-alt"> Teléfono 24h: +34 666 666 666</i></a>
