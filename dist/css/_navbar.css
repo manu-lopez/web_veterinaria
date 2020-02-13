@@ -231,3 +231,20 @@
   -webkit-transition: width 0.4s ease-in-out;
   transition: width 0.4s ease-in-out;
 }
+
+/* REPRODUCTOR */
+
+.container-audio {
+  width: 20rem;
+  height: auto;
+  background-color: #00B77B;
+  color: #00B77B;
+  margin: 0.5rem auto;
+  overflow: hidden;
+}
+audio {
+width:100%;
+}
+audio:nth-child(2), audio:nth-child(4), audio:nth-child(6) {
+  margin: 0;
+}

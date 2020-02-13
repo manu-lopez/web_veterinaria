@@ -10,6 +10,7 @@
 
   <div class="container-fluid body-inicio">
 
+
     <!-- ZONA CARRUSEL IMAGENES -->
 
     <div id="carousel1" class="carousel slide" data-ride="carousel">
