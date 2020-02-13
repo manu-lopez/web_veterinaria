@@ -78,6 +78,12 @@
           <li class="nav-item">
             <a class="nav-link" href="login.php">Acceder</a>
           </li>
+          <li class="nav-item">
+            <a href="cesta.php"><i class="fas fa-shopping-cart fa-lg" id="enlacecesta" style="color: white"></i></a>
+          </li>
+
+
+
         </ul>
       </div>
 

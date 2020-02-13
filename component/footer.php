@@ -21,7 +21,7 @@
                         <a href="construccion.php">Peluquería</a>
                     </li>
                     <li>
-                        <a href="construccion.php">Tienda Online</a>
+                        <a href="tienda.php">Tienda Online</a>
                     </li>
                     <li>
                         <a href="construccion.php">Adiestramiento</a>
