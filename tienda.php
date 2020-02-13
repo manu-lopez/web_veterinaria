@@ -1,15 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <?php include 'component/head.html'; ?>
-
-
 </head>
 
 <body>
-
-    <?php include 'component/navbarcesta.php'; ?>
+    <?php include 'component/navbar.php'; ?>
 
     <div class="body-tienda">
 

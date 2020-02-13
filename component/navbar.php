@@ -21,7 +21,6 @@
         </div>
       </li>
       <li class="d-flex nav-item">
-        <div id="player"></div>
         <a class="svg" href="#">
           <img src="imagenes/spain.svg" alt="Icono bandera españa">
         </a>
@@ -81,11 +80,18 @@
           <li class="nav-item">
             <a class="nav-link" href="login.php">Acceder</a>
           </li>
+          <?php 
+          $actual_link = "$_SERVER[REQUEST_URI]";
+          if ($actual_link == "/tienda.php") {
+            ?>
+            <li class="nav-item">
+              <a href="cesta.php"><i class="fas fa-shopping-cart fa-lg" id="enlacecesta" style="color: white"></i></a>
+            </li>
+            <?php
+          }
+          ?>
         </ul>
       </div>
-
-      <!-- <input id="campoBusqueda" type="text" name="search" placeholder="Búsqueda.."> -->
-
     </nav>
   </div>
 </div>
