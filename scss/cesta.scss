@@ -1,0 +1,42 @@
+@import "_variables2";
+@import "_comunes";
+
+.body-cesta{
+    padding-top: 9rem;
+    @include gradiente-fondo($colorGradient1,$colorGradient2);
+    
+    .card{
+        font-size: 1.2rem;
+        color: $colorBlanco;
+        background: $colorEntradaBlog;
+        margin-bottom: 2rem;
+        border-radius: 0rem;
+    }
+
+    .entradas{
+
+
+        img{
+            width: 100%;
+            height: 15rem;
+            margin: 0;
+            object-fit: fill;
+            border: 0.4rem;
+            border-color: $colorNavbar;
+        }
+
+        .btn-cesta{
+            border-radius: 1.5rem;
+            height: 2.5rem;
+        }
+    }
+   
+    .texto-entrada{
+        width: 100%;
+    }
+
+   
+
+  
+}
+

@@ -11,6 +11,15 @@
       <li class="nav-item btn-location-phone">
         <a class="nav-link text-dark disabled"><i class="fas fa-mobile-alt"> Teléfono 24h: +34 666 666 666</i></a>
       </li>
+      <li class="nav-item">
+
+        <div class="container-audio">
+          <audio controls loop>
+            <source src="media/vivaldi.mp3" type="audio/ogg">
+            Your browser dose not Support the audio Tag
+          </audio>
+        </div>
+      </li>
       <li class="d-flex nav-item">
         <div id="player"></div>
         <a class="svg" href="#">
@@ -53,7 +62,7 @@
               <a class="dropdown-item" href="construccion.php">Veterinaria</a>
               <a class="dropdown-item" href="construccion.php">Guarderia</a>
               <a class="dropdown-item" href="construccion.php">Peluqueria</a>
-              <a class="dropdown-item" href="construccion.php">Adiestramiento</a>
+              <a class="dropdown-item" href="cesta.php">Adiestramiento</a>
             </div>
           </li>
 
