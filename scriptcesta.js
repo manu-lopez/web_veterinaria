@@ -115,7 +115,7 @@ CreaArticulos = (mapa, contadoresArticulos, nombresArticulos, preciosArticulos) 
                                         <div class="col-md-3 ">
                                             <div class="texto-entrada">
                                                 <div class="form-group">
-                                                    <h4>Precio : ${preciosArticulos[i]}$</h4>
+                                                    <h4>Precio : ${preciosArticulos[i]}€</h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -131,7 +131,7 @@ CreaArticulos = (mapa, contadoresArticulos, nombresArticulos, preciosArticulos) 
 
     $(".cuerpo-cesta").html(cuerpoCesta)
 
-    $("#precio-total").html(precioTotal + "$");
+    $("#precio-total").html(precioTotal + "€");
 
 
 }

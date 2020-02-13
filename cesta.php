@@ -33,7 +33,7 @@
                                         <div class="form-group">
                                             <div class="texto-entrada">
                                                 <div class="form-group">
-                                                    <h2>Total precio:<span class="ml-5" id="precio-total">0$</span></h2>
+                                                    <h2>Total precio:<span class="ml-5" id="precio-total">0€</span></h2>
                                                 </div>
                                             </div>
                                         </div>

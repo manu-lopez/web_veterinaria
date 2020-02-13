@@ -4,22 +4,27 @@ let articulo = null;
 
 $(() => {
 
-    $(".btn-cesta").click(function () {
+  $(".btn-cesta").click(function () {
 
 
-        articulo = { "nombre": $("#producto" + $(this).attr("id")).attr("id"), "precio": $("#precio" + $(this).attr("id")).html() }
+    articulo = {
+      "nombre": $("#producto" + $(this).attr("id")).attr("id"),
+      "precio": $("#precio" + $(this).attr("id")).html()
+    }
 
-        if (sessionStorage.getItem('articulos') == null) {
-            articuloscesta.push(articulo);
-        } else {
-            articuloscesta = $.parseJSON(sessionStorage.getItem('articulos'));
+    if (sessionStorage.getItem('articulos') == null) {
+      articuloscesta.push(articulo);
+    } else {
+      articuloscesta = $.parseJSON(sessionStorage.getItem('articulos'));
 
-            articuloscesta.push(articulo);
-        }
-        sessionStorage.setItem("articulos", JSON.stringify(articuloscesta));
+      articuloscesta.push(articulo);
+    }
+    sessionStorage.setItem("articulos", JSON.stringify(articuloscesta));
 
-    })
+  })
 })
+
+
 // Redirecciona a Inicio
 Mousetrap.bind('shift+1', function () {
   window.location.href = "/index.php";
