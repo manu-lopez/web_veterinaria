@@ -48,8 +48,16 @@
     }
 
     #imagen-construccion {
-        @include posicion-grid(1, 2, 2, 3);
+        -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+        /* Safari */
+        transition: transform 3s;
+        transition-timing-function: ease-in;
+    }
 
+    #imagen-construccion:hover {
+        -webkit-transform: rotate(360deg);
+        /* Safari */
+        transform: rotate(360deg);
     }
 
 

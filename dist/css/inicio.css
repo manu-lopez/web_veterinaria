@@ -1,3 +1,15 @@
+#carousel1 {
+    margin-top: 8rem;
+}
+
+.iconoServicio {
+    margin-bottom: 1rem;
+}
+
+.mapa {
+    border: 0;
+}
+
 body {
     background: linear-gradient(180deg, #63C45A 25%, rgb(0, 167, 154) 100%);
 }

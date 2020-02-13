@@ -11,13 +11,13 @@
                   <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Indique su nombre">
                 </div>
                 <div class="form-group">
-                  <h4 for="nombre">Email</h4>
+                  <h4>Email</h4>
                   <input type="email" class="form-control" id="email" name="email" placeholder="Indique su email">
                 </div>
               </div>
               <div class="col-md-8 ">
                 <div class="form-group">
-                  <h4 for="comentarios">Mensaje</h4>
+                  <h4>Mensaje</h4>
                   <textarea class="form-control" rows="5" id="comentarios" name="comentarios" placeholder="Escriba el mensaje a enviar"></textarea>
                 </div>
               </div>
@@ -58,7 +58,7 @@
   <div class="col-lg-4">
     <div id="map-container-google-9" class="z-depth-1-half map-container-5">
 
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3200.108397646558!2d-6.1321926844215975!3d36.67189467997505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0dc6f48d92c5d7%3A0x207a96eef12d978d!2sIES%20Francisco%20Romero%20Vargas!5e0!3m2!1ses!2sus!4v1574351538783!5m2!1ses!2sus" frameborder="0" allowfullscreen class="rounded-lg mapa"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3200.108397646558!2d-6.1321926844215975!3d36.67189467997505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0dc6f48d92c5d7%3A0x207a96eef12d978d!2sIES%20Francisco%20Romero%20Vargas!5e0!3m2!1ses!2sus!4v1574351538783!5m2!1ses!2sus" allowfullscreen class="rounded-lg mapa"></iframe>
     </div>
 
   </div>

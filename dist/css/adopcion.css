@@ -1,0 +1,33 @@
+.adopcion {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container-adopcion {
+    margin-top: 10rem;
+    background-color: #92DB5A;
+    text-align: center;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+}
+
+.card {
+    padding: 1rem;
+    background-color: #92DB5A;
+    border: 0;
+    border-radius: 0;
+}
+
+.card-title,
+.card-text {
+    color: white;
+}
+
+.card-img-top {
+    border-radius: 1rem;
+}

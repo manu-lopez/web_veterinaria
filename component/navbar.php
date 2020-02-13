@@ -4,17 +4,20 @@
   <div class="nav-contact">
     <ul class="nav justify-content-around">
       <li class="nav-item btn-location-phone">
-        <button type="button" class="btn btn-outline-dark"><i class="fas fa-location-arrow"></i> Localización</button>
+        <span onclick="window.open('https://goo.gl/maps/xtXPSWTJ5ka4jxLK6')">
+          <button type="button" class="btn btn-outline-dark"><i class="fas fa-location-arrow"></i>Localización</button>
+        </span>
       </li>
       <li class="nav-item btn-location-phone">
         <a class="nav-link text-dark disabled"><i class="fas fa-mobile-alt"> Teléfono 24h: +34 666 666 666</i></a>
       </li>
       <li class="d-flex nav-item">
+        <div id="player"></div>
         <a class="svg" href="#">
-          <img src="imagenes/spain.svg">
+          <img src="imagenes/spain.svg" alt="Icono bandera españa">
         </a>
         <a class="svg" href="#">
-          <img src="imagenes/united-kingdom.svg">
+          <img src="imagenes/united-kingdom.svg" alt="Icono Bandera Reino Unido">
         </a>
       </li>
     </ul>
@@ -25,8 +28,8 @@
 
     <nav class="d-flex justify-content-around nav-principal navbar navbar-expand-lg navbar-dark">
       <div class="contenedorlogo ">
-        <a class="logo" href="inicio.php">
-          <img src="imagenes/logo_blanco.png" width="120" height="70" alt="">
+        <a class="logo" href="index.php">
+          <img src="imagenes/logo_completo.png" width="150" height="90" alt="Logo Mis Huellitas">
         </a>
       </div>
       <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,10 +40,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="inicio.php">Inicio</a>
+            <a class="nav-link" href="index.php">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="construccion.php">Tienda</a>
+            <a class="nav-link" href="tienda.php">Tienda</a>
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -55,7 +58,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="construccion.php">Adopción</a>
+            <a class="nav-link" href="adopcion.php">Adopción</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="blog.php">Blog</a>
@@ -72,7 +75,7 @@
         </ul>
       </div>
 
-      <input id="campoBusqueda" type="text" name="search" placeholder="Búsqueda..">
+      <!-- <input id="campoBusqueda" type="text" name="search" placeholder="Búsqueda.."> -->
 
     </nav>
   </div>

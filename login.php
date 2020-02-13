@@ -14,9 +14,7 @@
 
         <div class="container-fluid">
 
-            <center>
-                <h2 class="text-white ">Acceder</h2>
-            </center>
+                <h2 class="text-white" style="text-align:center">Acceder</h2>
 
 
 
@@ -38,7 +36,7 @@
                                             </div>
                                             <div class="form-group">
                                                 <h4 for="nombre">Contraseña</h4>
-                                                <input type="email" class="form-control" id="email" name="email" tabindex="5" placeholder="Escriba una contraseña">
+                                                <input type="password" class="form-control" id="email" name="email" tabindex="5" placeholder="Escriba una contraseña">
                                             </div>
                                         </div>
                                         <div class="col-md-6 ">
@@ -52,7 +50,7 @@
                                             </div>
                                             <div class="form-group">
                                                 <h4 for="nombre">Repetir contraseña</h4>
-                                                <input type="email" class="form-control" id="email" name="email" tabindex="6" placeholder="Repita la contraseña">
+                                                <input type="password" class="form-control" id="email" name="email" tabindex="6" placeholder="Repita la contraseña">
                                             </div>
                                         </div>
                                     </div>
@@ -68,10 +66,8 @@
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-md">
-                                            <center>
+                                        <div class="col-md" style="text-align:center;">
                                                 <button type="submit" class="btn-outline-dark btn-formulario mt-2" tabindex="8">Registrar</button>
-                                            </center>
                                         </div>
                                     </div>
                                 </div>
@@ -90,17 +86,15 @@
                                 </div>
                                 <div class="form-group">
                                     <h4 for="nombre">Contraseña</h4>
-                                    <input type="email" class="form-control" id="email" name="email" placeholder="Indique su contraseña">
+                                    <input type="password" class="form-control" id="email" name="email" placeholder="Indique su contraseña">
                                 </div>
 
 
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md">
-                                <center>
+                            <div class="col-md" style="text-align:center;">
                                     <button type="submit" class="btn-outline-dark btn-formulario mt-2">Iniciar</button>
-                                </center>
                             </div>
                         </div>
                     </div>

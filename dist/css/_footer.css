@@ -11,38 +11,39 @@ a {
 }
 
 
-.contenido-footer{
+.contenido-footer {
     display: flex;
-    Justify-content:center;
+    Justify-content: center;
     margin-top: 3rem;
     flex-wrap: wrap;
 }
 
-.column-servicios{
+.column-servicios {
     text-align: center;
-   flex: 1 1 40;
+    flex: 1 1 40;
     margin-left: 1rem;
     margin-right: 1rem;
 
 }
 
-.column-contacto{
-   display: flex;
-  flex-direction: column;
-  flex: 1 1 40;
-  margin-left: 1rem;
-  margin-right: 1rem;
+.column-contacto {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 40;
+    margin-left: 1rem;
+    margin-right: 1rem;
 
 }
 
-.column-newsletter{
+.column-newsletter {
     display: flex;
     justify-content: center;
-        flex: 1 1 20;
+    flex: 1 1 20;
     margin-right: 2rem;
     margin-left: 2rem;
 
 }
+
 .filafooter {
     width: 100%;
 }
@@ -67,9 +68,9 @@ a {
 }
 
 
- .list-unstyled i{
+.list-unstyled i {
     color: white;
- }
+}
 
 /* SPRITE */
 
