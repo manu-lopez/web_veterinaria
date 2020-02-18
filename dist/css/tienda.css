@@ -29,4 +29,26 @@
   width: 100%;
 }
 
+@media (min-width: 100px) and (max-width: 768px) {
+
+  .body-tienda {
+    padding-top: 1rem;
+  }
+
+}
+
+@media (min-width: 100px) and (max-width: 992px) {
+
+  .col-lg {
+    flex: 1 0 34%;
+    margin-top: 1rem;
+  }
+
+  .col-lg img {
+    width: auto !important;
+    margin: auto;
+  }
+
+}
+
 /*# sourceMappingURL=tienda.css.map */

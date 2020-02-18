@@ -6,7 +6,7 @@
 }
 
 .container-adopcion {
-    margin-top: 10rem;
+    padding-top: 10rem;
     background-color: #92DB5A;
     text-align: center;
 }
@@ -30,4 +30,12 @@
 
 .card-img-top {
     border-radius: 1rem;
+}
+
+@media (min-width: 100px) and (max-width: 767px) {
+    .container-adopcion {
+        padding-top: 1rem
+    }
+
+    ;
 }
