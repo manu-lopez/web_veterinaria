@@ -17,6 +17,11 @@
   .body-cesta .entradas .btn-cesta {
     border-radius: 1.5rem;
     height: 2.5rem; }
+  .body-cesta .entradas .radio-cesta {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    background-color: #eee; }
   .body-cesta .texto-entrada {
     width: 100%; }
 

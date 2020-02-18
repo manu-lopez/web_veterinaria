@@ -93,8 +93,7 @@ CreaArticulos = (mapa, contadoresArticulos, nombresArticulos, preciosArticulos) 
 
     for (let i = 0; i < mapa.size; i++) {
         cuerpoCesta += `
-
-        <div class="row">
+        <div class="row" style="background: rgb(0, 167, 154);padding:10px;border-radius:5px;margin-bottom:2px">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
                                                 <div class="texto-entrada">
@@ -109,29 +108,27 @@ CreaArticulos = (mapa, contadoresArticulos, nombresArticulos, preciosArticulos) 
                                                 <div class="form-group">
                                                     <h4>Cantidad : ${contadoresArticulos[i]}</h4>
                                                 </div>
-
                                             </div>
                                         </div>
                                         <div class="col-md-3 ">
                                             <div class="texto-entrada">
                                                 <div class="form-group">
-                                                    <h4>Precio : ${preciosArticulos[i]}€</h4>
+                                                    <h4>Precio : ${preciosArticulos[i]}$</h4>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-md-2 ">
                                         <div class="texto-entrada ">
-                                                <button value="${nombresArticulos[i]}" class="btnquitar" id="${i}">Quitar</button>
+                                                <button value="${nombresArticulos[i]}" class="btnquitar btn btn-danger" id="${i}">Quitar</button>
                                         </div>
                                     </div>
             </div>
-
         `
     }
 
     $(".cuerpo-cesta").html(cuerpoCesta)
 
-    $("#precio-total").html(precioTotal + "€");
+    $("#precio-total").html(precioTotal + "$");
 
 
 }

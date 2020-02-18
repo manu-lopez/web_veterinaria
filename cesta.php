@@ -58,9 +58,16 @@
                                                         <h4>Envio:</h4>
                                                     </div>
                                                     <div class="form-group">
-                                                        <p class="ml-5">Envio en 1 dia</p>
-                                                        <p class="ml-5">Envio en 1 semana dia</p>
-                                                        <p class="ml-5">Envio estandar</p>
+
+                                                        <div class="radio">
+                                                            <label><input class="ml-5 radio-cesta" type="radio" name="optradio" checked> <span class="pl-1" style="font-size: 20px">Envio en 1 dia</span></label>
+                                                        </div>
+                                                        <div class="radio">
+                                                            <label><input type="radio" class="ml-5 radio-cesta" name="optradio"><span class="pl-1" style="font-size: 20px">Envio en 1 semana</span></label>
+                                                        </div>
+                                                        <div class="radio disabled">
+                                                            <label><input type="radio" class="ml-5 radio-cesta" name="optradio"><span class="pl-1" style="font-size: 20px">Envio estandar</span></label>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -74,7 +81,7 @@
                                                         <h4>Dirección:</h4>
                                                     </div>
                                                     <div class="form-group">
-                                                        <p>IES Francisco Romero Vargas</p>
+                                                        <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Indique su dirección">
                                                     </div>
                                                 </div>
                                             </div>

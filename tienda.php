@@ -14,6 +14,7 @@
     <div class="body-tienda">
 
         <div class="container-fluid">
+
             <div class="row justify-content-center contacto mt-5 ml-3 mr-3">
 
                 <div class="col-lg-12">
@@ -32,7 +33,7 @@
                                                 <p id="precio1">9.99</p>
                                             </center>
                                             <center>
-                                                <button id="1" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="1" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -42,7 +43,7 @@
                                                 <p id="precio2">3.99</p>
                                             </center>
                                             <center>
-                                                <button id="2" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="2" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -52,7 +53,7 @@
                                                 <p id="precio3">5.99</p>
                                             </center>
                                             <center>
-                                                <button id="3" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="3" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -62,7 +63,7 @@
                                                 <p id="precio4">2.99</p>
                                             </center>
                                             <center>
-                                                <button id="4" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="4" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -72,7 +73,7 @@
                                                 <p id="precio5">1.99</p>
                                             </center>
                                             <center>
-                                                <button id="5" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="5" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                     </div>
@@ -91,7 +92,7 @@
                                                 <p id="precio6">11.99</p>
                                             </center>
                                             <center>
-                                                <button id="6" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="6" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -101,7 +102,7 @@
                                                 <p id="precio7">7.99</p>
                                             </center>
                                             <center>
-                                                <button id="7" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="7" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -111,7 +112,7 @@
                                                 <p id="precio8">4.99</p>
                                             </center>
                                             <center>
-                                                <button id="8" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="8" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -121,7 +122,7 @@
                                                 <p id="precio9">1.99</p>
                                             </center>
                                             <center>
-                                                <button id="9" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="9" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -131,7 +132,7 @@
                                                 <p id="precio10">8.99</p>
                                             </center>
                                             <center>
-                                                <button id="10" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="10" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                     </div>
@@ -150,7 +151,7 @@
                                                 <p id="precio11">2.99</p>
                                             </center>
                                             <center>
-                                                <button id="11" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="11" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -160,7 +161,7 @@
                                                 <p id="precio12">15.99</p>
                                             </center>
                                             <center>
-                                                <button id="12" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="12" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -170,7 +171,7 @@
                                                 <p id="precio13">4.99</p>
                                             </center>
                                             <center>
-                                                <button id="13" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="13" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -180,7 +181,7 @@
                                                 <p id="precio14">2.99</p>
                                             </center>
                                             <center>
-                                                <button id="14" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="14" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                         <div class="col-lg ">
@@ -190,7 +191,7 @@
                                                 <p id="precio15">12.99</p>
                                             </center>
                                             <center>
-                                                <button id="15" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
+                                                <button id="15" type="button" class="btn-outline-dark btn-cesta mb-5">Añadir a cesta</button>
                                             </center>
                                         </div>
                                     </div>
