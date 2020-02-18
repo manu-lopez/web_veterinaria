@@ -1,23 +1,32 @@
 .body-cesta {
   padding-top: 9rem;
-  background: linear-gradient(180deg, #00B77B 25%, #0094B1 100%); }
-  .body-cesta .card {
-    font-size: 1.2rem;
-    color: white;
-    background: #5ADB76;
-    margin-bottom: 2rem;
-    border-radius: 0rem; }
-  .body-cesta .entradas img {
-    width: 100%;
-    height: 15rem;
-    margin: 0;
-    object-fit: fill;
-    border: 0.4rem;
-    border-color: #63C45A; }
-  .body-cesta .entradas .btn-cesta {
-    border-radius: 1.5rem;
-    height: 2.5rem; }
-  .body-cesta .texto-entrada {
-    width: 100%; }
+  background: linear-gradient(180deg, #00B77B 25%, #0094B1 100%);
+}
+
+.body-cesta .card {
+  font-size: 1.2rem;
+  color: white;
+  background: #5ADB76;
+  margin-bottom: 2rem;
+  border-radius: 0rem;
+}
+
+.body-cesta .entradas img {
+  width: 100%;
+  height: 15rem;
+  margin: 0;
+  object-fit: fill;
+  border: 0.4rem;
+  border-color: #63C45A;
+}
+
+.body-cesta .entradas .btn-cesta {
+  border-radius: 1.5rem;
+  height: 2.5rem;
+}
+
+.body-cesta .texto-entrada {
+  width: 100%;
+}
 
 /*# sourceMappingURL=cesta.css.map */

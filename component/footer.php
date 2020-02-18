@@ -71,7 +71,7 @@
                 <div class="form-group">
                         <h5 class="text-uppercase" style="text-align:center;">Suscríbete a nuestro newsletter</h5>
                     <div class="btn-newsletter">
-                        <input type="text" class="form-control input-footer" name="nombre" placeholder="Indique su email de subscripción" tabindex="0">
+                        <input type="text" class="form-control input-footer" name="nombre" placeholder="Indique su email ..." tabindex="0">
                         <button type="submit" class="btn btn-color" tabindex="0"> Enviar </button>
                     </div>
                     <div class="form-check">

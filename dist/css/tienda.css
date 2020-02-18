@@ -1,10 +1,10 @@
-* {
-  text-align: center;
-}
-
 .body-tienda {
   padding-top: 8rem;
   background: linear-gradient(180deg, #00B77B 25%, #0094B1 100%);
+}
+
+.body-tienda * {
+  text-align: center;
 }
 
 .body-tienda .card {
