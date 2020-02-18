@@ -11,6 +11,7 @@
     <div class="body-tienda">
 
         <div class="container-fluid">
+
             <div class="row justify-content-center contacto mt-5 ml-3 mr-3">
                 <div class="col-lg-12">
                     <form>
@@ -117,6 +118,7 @@
                                             <img class="d-block w-100 img-tienda" src="imagenes/comida.png" alt="">
                                                 <p id="producto13">Producto 13</p>
                                                 <p id="precio13">4.99</p>
+
                                                 <button id="13" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
                                         </div>
                                         <div class="col-lg ">
@@ -129,6 +131,7 @@
                                             <img class="d-block w-100 img-tienda" src="imagenes/comida.png" alt="">
                                                 <p id="producto15">Producto 15</p>
                                                 <p id="precio15">12.99</p>
+
                                                 <button id="15" type="button" class="btn-outline-dark btn-cesta">Añadir a cesta</button>
                                         </div>
                                     </div>

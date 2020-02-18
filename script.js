@@ -19,6 +19,7 @@ $(() => {
 
       articuloscesta.push(articulo);
     }
+
     sessionStorage.setItem("articulos", JSON.stringify(articuloscesta));
 
   })
