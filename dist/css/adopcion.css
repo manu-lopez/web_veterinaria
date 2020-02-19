@@ -30,6 +30,8 @@
 
 .card-img-top {
     border-radius: 1rem;
+    width: 15rem;
+    height: 15rem;
 }
 
 @media (min-width: 100px) and (max-width: 767px) {

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <?php include 'component/head.html'; ?>
@@ -26,7 +26,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/concurso.jpg" alt="Cartel de concurso de perro">
+                                                <img id="img-blog" src="imagenes/concurso.jpg" title="Cartel de concurso de perro" alt="Cartel de concurso de perro">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">
@@ -47,7 +47,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/nutricion.jpg" alt="Dos perros con comida">
+                                                <img id="img-blog" src="imagenes/nutricion.jpg" title="Dos perros con comida" alt="Dos perros con comida">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">
@@ -66,7 +66,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/sananton.jpg" alt="Cartel fiesta San Antón">
+                                                <img id="img-blog" src="imagenes/sananton.jpg" title="Cartel fiesta San Antón" alt="Cartel fiesta San Antón">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">

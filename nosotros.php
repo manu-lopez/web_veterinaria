@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include 'component/head.html'; ?>
@@ -15,7 +15,7 @@
     <div class="container h-100 mt-15">
       <div class="d-flex h-100 text-center align-items-center">
         <div class="w-100 text-white">
-          <img src="imagenes/logo_blanco.svg" alt="Logo mis huellitas">
+          <img src="imagenes/logo_blanco.svg" title="Logo mis huellitas" alt="Logo mis huellitas">
           <h3>Mis Huellitas</h3>
           <p class="text-overlay mb-0 mt-5">Las mascotas, su salud y cuidados, son asuntos prioritarios para sus
             propietarios, por lo que el nivel de profesionalidad de una clínica veterinaria es primordial para la

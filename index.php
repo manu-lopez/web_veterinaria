@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include 'component/head.html'; ?>
@@ -22,25 +22,23 @@
       <!-- diapositivas -->
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="imagenes/cab1.jpg" alt="Perro feliz tumbado en el campo">
+          <img class="d-block w-100" src="imagenes/cab1.jpg" title="Perro feliz tumbado en el campo" alt="Perro feliz tumbado en el campo">
           <div class="carousel-caption">
-            <h3>Atendemos a tu mascota de la mejor manera posible. Especializados en medicina interna y cirugía.
+            <h3>Atendemos a tu <u>mascota</u> de la mejor manera posible. Especializados en <u>medicina interna y cirugía.</u>
               Ven a visitarnos o pide cita previa llamando al 666 666 666.
             </h3>
           </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="imagenes/cab2.jpg" alt="Mujer acariciando a perro">
+          <img class="d-block w-100" src="imagenes/cab2.jpg" title="Mujer acariciando a perro" alt="Mujer acariciando a perro">
           <div class="carousel-caption">
-            <h3>En la clínica disponemos de medios técnicos de última generación y conocimientos diagnósticos y
-              terapéuticos
-              de vanguardia. Tu mascota estará en las mejores manos.</h3>
+            <h3>En la clínica disponemos de medios técnicos de <u>última generación</u> y conocimientos diagnósticos y terapéuticos de vanguardia. Tu mascota estará en las <u>mejores manos</u>.</h3>
           </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="imagenes/cab3.jpg" alt="Cachorro en la playa">
+          <img class="d-block w-100" src="imagenes/cab3.jpg" title="Cachorro en la playa" alt="Cachorro en la playa">
           <div class="carousel-caption">
-            <h3>Atención las 24 horas. Puedes confiar en nosotros, tu mascota estará siempre en las mejores manos.</h3>
+            <h3>Atención las <u>24 horas</u>. Tu mascota estará en siempre en las mejores manos. Puedes <u>confiar en nosotros</u>.</h3>
           </div>
         </div>
       </div>
