@@ -8,40 +8,60 @@ var articulos = [];
 $(() => {
 
     articulos = $.parseJSON(sessionStorage.getItem('articulos'));
+    console.log(articulos)
+    if (articulos != null) {
 
-    ColocaArticulos(articulos);
-
-    CreaArticulos(mapa, contadoresArticulos, nombresArticulos, preciosArticulos);
-
-    $(".cuerpo-cesta").on("click", ".btnquitar", function () {
-
-        articulos = $.parseJSON(sessionStorage.getItem('articulos'));
-
-        let elementoAQuitar = $(this).val();
-
-        var filtered = articulos.filter(function (value, index, arr) {
-
-            return value.nombre != elementoAQuitar;
-
-        });
-
-        console.log(filtered);
-        mapa.clear();
-        mapa2.clear();
-
-        contadoresArticulos = [];
-        nombresArticulos = [];
-        preciosArticulos = [];
-        precioTotal = 0;
-
-        ColocaArticulos(filtered);
+        ColocaArticulos(articulos);
 
         CreaArticulos(mapa, contadoresArticulos, nombresArticulos, preciosArticulos);
 
-        sessionStorage.setItem("articulos", JSON.stringify(filtered));
+        $(".cuerpo-cesta").on("click", ".btnquitar", function () {
 
-    })
+            articulos = $.parseJSON(sessionStorage.getItem('articulos'));
 
+            let elementoAQuitar = $(this).val();
+
+            var filtered = articulos.filter(function (value, index, arr) {
+
+                return value.nombre != elementoAQuitar;
+
+            });
+
+            mapa.clear();
+            mapa2.clear();
+
+            contadoresArticulos = [];
+            nombresArticulos = [];
+            preciosArticulos = [];
+            precioTotal = 0;
+
+            ColocaArticulos(filtered);
+
+            CreaArticulos(mapa, contadoresArticulos, nombresArticulos, preciosArticulos);
+
+            sessionStorage.setItem("articulos", JSON.stringify(filtered));
+
+        })
+
+        $(".realiza-pedido").click(function () {
+
+            if (/(^$|^.*@.*\..*$)/.test($("#direccion").val())) {
+                alert("Debe rellenar el campo de direccion");
+            } else {
+                mapa.clear();
+                mapa2.clear();
+
+                contadoresArticulos = [];
+                nombresArticulos = [];
+                preciosArticulos = [];
+                sessionStorage.clear();
+
+                precioTotal = 0;
+                alert("Pedido completado, Gracias!!")
+                window.location.href = '/tienda.php';
+            }
+        })
+    }
 })
 
 ColocaArticulos = (articulos) => {
