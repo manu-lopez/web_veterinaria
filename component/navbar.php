@@ -58,10 +58,11 @@
               <i class="fas fa-caret-down"></i> Citas
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="construccion.php">Veterinaria</a>
-              <a class="dropdown-item" href="construccion.php">Guarderia</a>
-              <a class="dropdown-item" href="construccion.php">Peluqueria</a>
-              <a class="dropdown-item" href="cesta.php">Adiestramiento</a>
+              <a class="dropdown-item" href="veterinaria.php">Veterinaria</a>
+              <a class="dropdown-item" href="guarderia.php">Guarderia</a>
+              <a class="dropdown-item" href="peluqueria.php">Peluqueria</a>
+              <a class="dropdown-item" href="adiestramiento.php">Adiestramiento</a>
+              <a class="dropdown-item" href="construccion.php">Esterilización</a>
             </div>
           </li>
 
@@ -80,14 +81,14 @@
           <li class="nav-item">
             <a class="nav-link" href="login.php">Acceder</a>
           </li>
-          <?php 
+          <?php
           $actual_link = "$_SERVER[REQUEST_URI]";
           if ($actual_link == "/tienda.php") {
-            ?>
+          ?>
             <li class="nav-item">
               <a href="cesta.php"><i class="fas fa-shopping-cart fa-lg" id="enlacecesta" style="color: white"></i></a>
             </li>
-            <?php
+          <?php
           }
           ?>
         </ul>

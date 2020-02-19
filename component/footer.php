@@ -15,19 +15,22 @@
 
                 <ul class="list-unstyled enlaces">
                     <li>
-                        <a href="construccion.php">Veterinaria</a>
+                        <a href="veterinaria.php">Veterinaria</a>
                     </li>
                     <li>
-                        <a href="construccion.php">Peluquería</a>
+                        <a href="peluqueria.php">Peluquería</a>
                     </li>
                     <li>
                         <a href="tienda.php">Tienda Online</a>
                     </li>
                     <li>
-                        <a href="construccion.php">Adiestramiento</a>
+                        <a href="adiestramiento.php">Adiestramiento</a>
                     </li>
                     <li>
-                        <a href="construccion.php">Guardería</a>
+                        <a href="guarderia.php">Guardería</a>
+                    </li>
+                    <li>
+                        <a href="construccion.php">Esterilización</a>
                     </li>
                     <li>
                     <li>
@@ -69,7 +72,7 @@
             <div class="column-newsletter">
 
                 <div class="form-group">
-                        <h5 class="text-uppercase" style="text-align:center;">Suscríbete a nuestro newsletter</h5>
+                    <h5 class="text-uppercase" style="text-align:center;">Suscríbete a nuestro newsletter</h5>
                     <div class="btn-newsletter">
                         <input type="text" class="form-control input-footer" name="nombre" placeholder="Indique su email ..." tabindex="0">
                         <button type="submit" class="btn btn-color" tabindex="0"> Enviar </button>
@@ -85,11 +88,11 @@
 
             </div>
         </div>
-            <div class="copyright" style="text-align:center;"> 
-                © 2019 Copyright:
-                <a href="https://github.com/jab95" class="enlace-estilo">Pepe</a> y <a href="https://github.com/manu-lopez" class="enlace-estilo">Manuel</a>
+        <div class="copyright" style="text-align:center;">
+            © 2019 Copyright:
+            <a href="https://github.com/jab95" class="enlace-estilo">Pepe</a> y <a href="https://github.com/manu-lopez" class="enlace-estilo">Manuel</a>
 
-            </div>
+        </div>
     </div>
 
 </footer>
