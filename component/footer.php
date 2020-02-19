@@ -1,7 +1,11 @@
-<img src="imagenes/linea.svg" class="linea2" alt="">
+<img src="imagenes/linea.svg" class="linea2" alt="Separador">
 
 <footer>
     <div class="body-footer">
+
+
+
+
 
         <div class="contenido-footer filafooter">
 
@@ -11,19 +15,22 @@
 
                 <ul class="list-unstyled enlaces">
                     <li>
-                        <a href="construccion.php">Veterinaria</a>
+                        <a href="veterinaria.php">Veterinaria</a>
                     </li>
                     <li>
-                        <a href="construccion.php">Peluquería</a>
+                        <a href="peluqueria.php">Peluquería</a>
                     </li>
                     <li>
-                        <a href="construccion.php">Tienda Online</a>
+                        <a href="tienda.php">Tienda Online</a>
                     </li>
                     <li>
-                        <a href="construccion.php">Adiestramiento</a>
+                        <a href="adiestramiento.php">Adiestramiento</a>
                     </li>
                     <li>
-                        <a href="construccion.php">Guardería</a>
+                        <a href="guarderia.php">Guardería</a>
+                    </li>
+                    <li>
+                        <a href="construccion.php">Esterilización</a>
                     </li>
                     <li>
                     <li>
@@ -65,14 +72,13 @@
             <div class="column-newsletter">
 
                 <div class="form-group">
-                    <center>
-                        <h5 class="text-uppercase">Suscríbete a nuestro newsletter</h5>
-                    </center>
+                    <h5 class="text-uppercase" style="text-align:center;">Suscríbete a nuestro newsletter</h5>
                     <div class="btn-newsletter">
-                        <input type="text" class="form-control input-footer" id="nombre" name="nombre" placeholder="Indique su email de subscripción">
-                        <button type="submit" class="btn btn-color"> Enviar </div>
+                        <input type="text" class="form-control input-footer" name="nombre" placeholder="Indique su email ..." tabindex="0">
+                        <button type="submit" class="btn btn-color" tabindex="0"> Enviar </button>
+                    </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="checkbox1" name="checkbox1">
+                        <input class="form-check-input" type="checkbox" value="" name="checkbox1" tabindex="0">
                         <label class="form-check-label" for="checkbox1">
                             He leído y acepto la <a class="enlace-estilo" href="">política de privacidad</a> y los <a class="enlace-estilo" href=""> términos de uso
                                 de la web</a>
@@ -81,18 +87,12 @@
                 </div>
 
             </div>
-
+        </div>
+        <div class="copyright" style="text-align:center;">
+            © 2019 Copyright:
+            <a href="https://github.com/jab95" class="enlace-estilo">Pepe</a> y <a href="https://github.com/manu-lopez" class="enlace-estilo">Manuel</a>
 
         </div>
-
-        <center>
-            <div class="copyright">
-                © 2019 Copyright:
-                <a href="https://github.com/jab95" class="enlace-estilo">Pepe</a> y <a href="https://github.com/manu-lopez" class="enlace-estilo">Manuel</a>
-
-            </div>
-        </center>
-
     </div>
 
 </footer>

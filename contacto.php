@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <?php include 'component/head.html'; ?>
@@ -15,12 +15,10 @@
             <div class="container-fluid">
 
                 
-                <center>
-                    <h2 class="text-white ">Contacto</h2>
-                </center>
+                    <h2 class="text-white" style="text-align:center">Contacto</h2>
 
-                <center>
-                    <div class="row  justify-content-center contacto-body-contacto">
+
+                    <div class="row justify-content-center contacto-body-contacto" style="text-align:center">
                         <div class="col-md-5">
 
                             <h4 class="text-white mt-5">
@@ -37,7 +35,7 @@
                         
                         </div>
                     </div>
-                </center>
+
 
 
                 <?php include 'component/form.php'; ?>

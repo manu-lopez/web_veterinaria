@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <?php include 'component/head.html'; ?>
@@ -13,7 +13,13 @@
 
         <div class="contenido-body">
             <h1>EN CONSTRUCCIÓN</h1>
-            <img id="imagen-construccion" src="imagenes/perroobrero.jpg" src="" alt="">
+            <picture id="imagen-construccion">
+                <source media="(min-width: 991px)" srcset="imagenes/perro_obrero_3.jpg,
+                imagenes/perro_obrero_3@2x.jpg 2x">
+                <source media="(min-width: 600px)" srcset="imagenes/perro_obrero_2.jpg">
+                <source media="(min-width: 400px)" srcset="imagenes/perro_obrero_1.jpg">
+                <img srcset="imagenes/perro_obrero_1.jpg" title="Perro disfrazado de obrero" alt="perro disfrazado obrero">
+            </picture>
             <div id="animacion-construccion"></div>
         </div>
 

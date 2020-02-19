@@ -1,0 +1,43 @@
+.adopcion {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container-adopcion {
+    padding-top: 10rem;
+    background-color: #92DB5A;
+    text-align: center;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+}
+
+.cardAdopcion {
+    padding: 1rem;
+    background-color: #92DB5A;
+    border: 0;
+    border-radius: 0;
+}
+
+.card-title,
+.card-text {
+    color: white;
+}
+
+.card-img-top {
+    border-radius: 1rem;
+    width: 15rem;
+    height: 15rem;
+}
+
+@media (min-width: 100px) and (max-width: 767px) {
+    .container-adopcion {
+        padding-top: 1rem
+    }
+
+    ;
+}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <?php include 'component/head.html'; ?>
@@ -14,9 +14,7 @@
 
         <div class="container-fluid">
 
-            <center>
-                <h2 class="text-white ">Blog</h2>
-            </center>
+                <h2 class="text-white " style="text-align:center">Blog</h2>
 
 
             <div class="row justify-content-center contacto mt-5 ml-4 mr-4">
@@ -28,7 +26,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/concurso.jpg" alt="">
+                                                <img id="img-blog" src="imagenes/concurso.jpg" title="Cartel de concurso de perro" alt="Cartel de concurso de perro">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">
@@ -49,7 +47,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/nutricion.jpg" alt="">
+                                                <img id="img-blog" src="imagenes/nutricion.jpg" title="Dos perros con comida" alt="Dos perros con comida">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">
@@ -68,7 +66,7 @@
                                     <div class="row">
                                         <div class="col-md-4 ">
                                             <div class="form-group">
-                                                <img id="img-blog" src="imagenes/sananton.jpg" alt="">
+                                                <img id="img-blog" src="imagenes/sananton.jpg" title="Cartel fiesta San Antón" alt="Cartel fiesta San Antón">
                                             </div>
                                         </div>
                                         <div class="col-md-8 ">
