@@ -14,7 +14,7 @@
         for ($i=0; $i < 9; $i++) { 
             ?>
             <div class="card cardAdopcion" style="width: 18rem;">
-                <img class="card-img-top" src="imagenes/adopcion/adopcion<?php echo $i+1; ?>.png" alt="Foto perro adopcion">
+                <img class="card-img-top" src="imagenes/adopcion/adopcion<?php echo $i+1; ?>.png" title="Foto de <?php echo $nombres[$i]; ?>" alt="Foto de <?php echo $nombres[$i]; ?>">
                 <div class="card-body">
                     <h5 class="card-title"><?php echo $nombres[$i]; ?></h5>
                     <p class="card-text"><?php echo $texto[$i]; ?></p>

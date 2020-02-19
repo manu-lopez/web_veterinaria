@@ -22,10 +22,10 @@
       </li>
       <li class="d-flex nav-item">
           <a class="svg" href="https://www.youtube.com/watch?v=GWCldYPEsl4">
-            <img src="imagenes/spain.svg" alt="Icono bandera españa">
+            <img src="imagenes/spain.svg" title="Bandera de España" alt="Icono bandera españa">
           </a>
         <a class="svg" href="https://www.youtube.com/watch?v=dicKXopOyDI">
-          <img src="imagenes/united-kingdom.svg" alt="Icono Bandera Reino Unido">
+          <img src="imagenes/united-kingdom.svg" title="Bandera de Reino Unido" alt="Icono Bandera Reino Unido">
         </a>
       </li>
     </ul>
