@@ -10,7 +10,7 @@ Mousetrap.bind('shift+2', function () {
 
 // Redirecciona a Citas
 Mousetrap.bind('shift+3', function () {
-    window.location.href = "/citas.php";
+    window.location.href = "/veterinaria.php";
 });
 
 // Redirecciona a Adopción
@@ -36,4 +36,9 @@ Mousetrap.bind('shift+7', function () {
 // Redirecciona a Acceder
 Mousetrap.bind('shift+8', function () {
     window.location.href = "/login.php";
+});
+
+// Redirecciona a Construcción
+Mousetrap.bind('shift+9', function () {
+    window.location.href = "/construccion.php";
 });
