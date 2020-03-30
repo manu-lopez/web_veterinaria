@@ -8,7 +8,7 @@ $(() => {
 
 
     articulo = {
-      "nombre": $("#producto" + $(this).attr("id")).attr("id"),
+      "nombre": $("#producto" + $(this).attr("id")).html(),
       "precio": $("#precio" + $(this).attr("id")).html()
     }
 
